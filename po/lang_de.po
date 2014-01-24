@@ -1,0 +1,4481 @@
+# naml2po generated translation file for nabble.com
+# This file is distributed under the Creative Commons Attribution 4.0 International Public License.
+#
+# Armin Stebich <nabble@mail.lordofbikes.de>, 2014.
+msgid ""
+msgstr ""
+"Project-Id-Version: nabble.com NAML translation file\n"
+"Report-Msgid-Bugs-To: nabble@mail.lordofbikes.de\n"
+"POT-Creation-Date: 2014-01-04 10:15+0100\n"
+"PO-Revision-Date: 2014-01-24 22:51+0100\n"
+"Last-Translator: Armin Stebich <nabble@mail.lordofbikes.de>\n"
+"Language-Team: German <nabble@mail.lordofbikes.de>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+"X-Generator: Lokalize 1.4\n"
+
+# Comment:# Deutsch
+# Newline
+# Newline
+# Newline
+# Newline
+# Newline
+# Newline
+# Newline
+# Newline
+# Newline
+# Comment:# MONTHS ##
+# Newline
+#. type: Plain text, ID:1
+#: Line:63
+msgid "January"
+msgstr "Januar"
+
+#. type: Plain text, ID:2
+#: Line:64
+msgid "February"
+msgstr "Februar"
+
+#. type: Plain text, ID:3
+#: Line:65
+msgid "March"
+msgstr "März"
+
+#. type: Plain text, ID:4
+#: Line:66
+msgid "April"
+msgstr "April"
+
+#. type: Plain text, ID:5
+#: Line:67
+msgid "May"
+msgstr "Mai"
+
+#. type: Plain text, ID:6
+#: Line:68
+msgid "June"
+msgstr "Juni"
+
+#. type: Plain text, ID:7
+#: Line:69
+msgid "July"
+msgstr "Juli"
+
+#. type: Plain text, ID:8
+#: Line:70
+msgid "August"
+msgstr "August"
+
+#. type: Plain text, ID:9
+#: Line:71
+msgid "September"
+msgstr "September"
+
+#. type: Plain text, ID:10
+#: Line:72
+msgid "October"
+msgstr "Oktober"
+
+#. type: Plain text, ID:11
+#: Line:73
+msgid "November"
+msgstr "November"
+
+#. type: Plain text, ID:12
+#: Line:74
+msgid "December"
+msgstr "Dezember"
+
+# Newline
+#. type: Plain text, ID:13
+#: Line:76
+msgid "Jan"
+msgstr "Jan"
+
+#. type: Plain text, ID:14
+#: Line:77
+msgid "Feb"
+msgstr "Feb"
+
+#. type: Plain text, ID:15
+#: Line:78
+msgid "Mar"
+msgstr "Mär"
+
+#. type: Plain text, ID:16
+#: Line:79
+msgid "Apr"
+msgstr "Apr"
+
+# Comment-Tag:<!--translation><from>May</from><to>Mai</to></translation-->
+#. type: Plain text, ID:17
+#: Line:81
+msgid "Jun"
+msgstr "Jun"
+
+#. type: Plain text, ID:18
+#: Line:82
+msgid "Jul"
+msgstr "Jul"
+
+#. type: Plain text, ID:19
+#: Line:83
+msgid "Aug"
+msgstr "Aug"
+
+#. type: Plain text, ID:20
+#: Line:84
+msgid "Sep"
+msgstr "Sep"
+
+#. type: Plain text, ID:21
+#: Line:85
+msgid "Oct"
+msgstr "Okt"
+
+#. type: Plain text, ID:22
+#: Line:86
+msgid "Nov"
+msgstr "Nov"
+
+#. type: Plain text, ID:23
+#: Line:87
+msgid "Dec"
+msgstr "Dez"
+
+# Newline
+# Comment:# SENTENCES ##
+# Newline
+#. type: Plain text, ID:24
+#: Line:91
+msgid "Abusing this feature is also a violation of our Terms of Use."
+msgstr ""
+"Diese Funktion zu missbrauchen ist auch eine Verletzung unserer "
+"Nutzungsbedingungen."
+
+#. type: Plain text, ID:25
+#: Line:92
+msgid "Access Request"
+msgstr "Zugang anfordern"
+
+#. type: Plain text, ID:26
+#: Line:93
+msgid "Account settings"
+msgstr "Kontoeinstellungen"
+
+#. type: Plain text, ID:27
+#: Line:94
+msgid "Account Settings"
+msgstr "Kontoeinstellungen"
+
+#. type: Plain text, ID:28
+#: Line:95
+msgid "Action"
+msgstr "Aktion"
+
+#. type: Plain text, ID:29
+#: Line:96
+msgid "Add a link to another page"
+msgstr "Verweis auf eine andere Seite hinzufügen"
+
+#. type: Plain text, ID:30
+#: Line:97
+msgid "Add a new comment"
+msgstr "Neuen Kommentar hinzufügen"
+
+#. type: Plain text, ID:31
+#: Line:98
+msgid "Add a new group"
+msgstr "Neue Gruppe hinzufügen"
+
+#. type: Plain text, ID:32
+#: Line:99
+msgid "Add an image to your post"
+msgstr "Ein Bild zum Beitrag hinzufügen"
+
+#. type: Plain text, ID:33
+#: Line:100
+msgid "Add another address"
+msgstr "Weitere Adresse hinzufügen"
+
+#. type: Plain text, ID:34
+#: Line:101
+msgid "Add content that should not be encoded (e.g., code)"
+msgstr "Inhalt einfügen, der nicht interpretiert werden soll (z.B. Quelltext)"
+
+#. type: Plain text, ID:35
+#: Line:102
+msgid "Adding Sub-Headers"
+msgstr "Überschrift hinzufügen"
+
+#. type: Plain text, ID:36
+#: Line:103
+msgid "Add New Group"
+msgstr "Neue Gruppe hinzufügen"
+
+#. type: Plain text, ID:37
+#: Line:104
+msgid "Add / Remove Groups"
+msgstr "Gruppen hinzufügen / löschen"
+
+#. type: Plain text, ID:38
+#: Line:105
+msgid "Add smileys and funny animations"
+msgstr "Emoticons und lustige Animationen einfügen"
+
+#. type: Plain text, ID:39
+#: Line:106
+msgid "Add Subscribers"
+msgstr "Teilnehmer hinzufügen"
+
+#. type: Plain text, ID:40
+#: Line:107
+msgid "Add this item to your favorites list"
+msgstr "Diesen Beitrag zu den Favoriten hinzufügen"
+
+#. type: Plain text, ID:41
+#: Line:108
+msgid "Administrator"
+msgstr "Administrator"
+
+#. type: Plain text, ID:42
+#: Line:109
+msgid ""
+"Adult or mature content, explicit sexual activity, nudity, other sexual "
+"content."
+msgstr ""
+"Nicht jugendfreier Inhalt, eindeutig sexuelle Aktivitäten, Nacktheit, andere "
+"sexuelle Inhalte."
+
+#. type: Plain text, ID:43
+#: Line:110
+msgid ""
+"Adults fighting, physical attack, youth violence, animal abuse or promotion "
+"of terrorism."
+msgstr ""
+"Kampfhandlungen Erwachsener, physische Gewalt, Jugendgewalt, Tierquälerei "
+"oder Unterstützung von Terrorismus."
+
+#. type: Plain text, ID:44
+#: Line:111
+msgid "Advanced Search"
+msgstr "Erweiterte Suche"
+
+#. type: Plain text, ID:45
+#: Line:112
+msgid "Advanced Settings"
+msgstr "Erweiterte Einstellungen"
+
+#. type: Plain text, ID:46
+#: Line:113
+msgid "Advertisement"
+msgstr "Werbung"
+
+#. type: Plain text, ID:47
+#: Line:114
+msgid "Alert me by email when someone posts to this thread"
+msgstr "Benachrichtigung, wenn jemand einen Beitrag zu diesem Thema verfasst"
+
+#. type: Plain text, ID:48
+#: Line:115
+msgid "All"
+msgstr "Alle"
+
+#. type: Plain text, ID:49
+#: Line:116
+msgid "all of the words:"
+msgstr "alle diese Worte:"
+
+#. type: Plain text, ID:50
+#: Line:117
+msgid "All posts from <t.author/> have been successfully removed."
+msgstr "Alle Beiträge von <t.author/> wurden erfolgreich gelöscht."
+
+#. type: Plain text, ID:51
+#: Line:118
+msgid "All posts"
+msgstr "Alle Beiträge"
+
+#. type: Plain text, ID:52
+#: Line:119
+msgid "All users belong to this group"
+msgstr "Alle Mitglieder dieser Gruppe"
+
+#. type: Plain text, ID:53
+#: Line:120
+msgid "All Users"
+msgstr "Alle Benutzer"
+
+#. type: Plain text, ID:54
+#: Line:121
+msgid ""
+"All users that have registered to <t.location/>. These users have confirmed "
+"their email addresses and are able to login to the system."
+msgstr ""
+"Alle Teilnehmer, die sich für <t.location/> registriert haben. Diese "
+"Teilnehmer haben ihre Email-Adresse bestätigt und können sich im System "
+"anmelden."
+
+#. type: Plain text, ID:55
+#: Line:122
+msgid "Already Subscribed"
+msgstr "Bereits registriert"
+
+#. type: Plain text, ID:56
+#: Line:123
+msgid "An email has been sent to you."
+msgstr "Es wurde eine Email verschickt"
+
+#. type: Plain text, ID:57
+#: Line:124
+msgid "Anonymous"
+msgstr "Anonym"
+
+#. type: Plain text, ID:58
+#: Line:125
+msgid "anonymous user"
+msgstr "anonymer Teilnehmer"
+
+#. type: Plain text, ID:59
+#: Line:126
+msgid "anonymous users"
+msgstr "anonyme Teilnehmer"
+
+#. type: Plain text, ID:60
+#: Line:127
+msgid "Any message part contains"
+msgstr "Irgendein Teil der Nachricht enthält"
+
+#. type: Plain text, ID:61
+#: Line:128
+msgid "Application"
+msgstr "Anwendung"
+
+#. type: Plain text, ID:62
+#: Line:129
+msgid "Apps"
+msgstr "Apps"
+
+#. type: Plain text, ID:63
+#: Line:130
+msgid "Assignee"
+msgstr "Beauftragter"
+
+#. type: Plain text, ID:64
+#: Line:131
+msgid "Assign"
+msgstr "Zuweisen"
+
+#. type: Plain text, ID:65
+#: Line:132
+msgid "Assignment"
+msgstr "Zuweisung"
+
+#. type: Plain text, ID:66
+#: Line:133
+msgid ""
+"As you requested, the email address to post new topics under <t.app/> is:"
+msgstr ""
+"Gemäß Anforderung, lautet die Email-Adresse für neue Beträge in <t.app/> nun:"
+
+#. type: Plain text, ID:67
+#: Line:134
+msgid "at least one of the words:"
+msgstr "eines der Worte:"
+
+#. type: Plain text, ID:68
+#: Line:135
+msgid "Atom feeds for <t.location/>"
+msgstr "Atom Feeds für <t.location/>"
+
+#. type: Plain text, ID:69
+#: Line:136
+#, fuzzy
+msgid "at priority"
+msgstr "mit Priorität"
+
+#. type: Plain text, ID:70
+#: Line:137
+msgid "Authorized Users Only"
+msgstr "Nur angemeldete Teilnehmer"
+
+#. type: Plain text, ID:71
+#: Line:138
+msgid "Author name"
+msgstr "Name des Autor"
+
+#. type: Plain text, ID:72
+#: Line:139
+msgid ""
+"Avoid small talk such as \"Thank you\", \"Great\"... You can <n.page_node."
+"reply_to_author_link.>send a private email</n.page_node.reply_to_author_link."
+"> if you want."
+msgstr ""
+"Vermeide Geplauder wie \"vielen Dank\", \"großartig\"... Besser ist es, bei "
+"Bedarf <n.page_node.reply_to_author_link.>eine private Email zu senden</n."
+"page_node.reply_to_author_link.>."
+
+#. type: Plain text, ID:73
+#: Line:140
+msgid "Banned User"
+msgstr "Verbannter Teilnehmer"
+
+#. type: Plain text, ID:74
+#: Line:141
+msgid "Ban this user"
+msgstr "Diesen Teilnehmer verbannen"
+
+#. type: Plain text, ID:75
+#: Line:142
+msgid "Ban User"
+msgstr "Teilnehmer verbannen"
+
+#. type: Plain text, ID:76
+#: Line:143
+msgid "Before deleting this archive..."
+msgstr "Bevor dieses Archiv gelöscht wird..."
+
+#. type: Plain text, ID:77
+#: Line:144
+msgid ""
+"Below you can manage groups and users. You can copy and paste users in order "
+"to move them from one group to another."
+msgstr ""
+"Unten können Gruppen und Teilnehmer verwaltet werden. Man kann Teilnehmer "
+"durch kopieren und einfügen von einer Gruppe in eine andere verschieben."
+
+#. type: Plain text, ID:78
+#: Line:145
+msgid ""
+"<b>IMPORTANT</b>: Nabble will send an invitation to each email in the list. "
+"Users will have to click on a link to confirm their subscription."
+msgstr ""
+"<b>WICHTIG</b>: Nabble wird an jede Email-Adresse in der Liste eine "
+"Einladung versenden.Teilnehmer müssen durch anklicken eines Links ihre "
+"Anmeldung bestätigen."
+
+#. type: Plain text, ID:79
+#: Line:146
+msgid ""
+"<b>IMPORTANT:</b> This subscription is independent of the real mailing list "
+"subscription. Basically, you will subscribe to the forum archive, not to the "
+"mailing list itself. The archive subscription won't guarantee that your "
+"messages will be accepted by mailing list."
+msgstr ""
+"<b>WICHTIG:</b> Diese Anmeldung ist unabhängig von der Anmeldung bei der "
+"tatsächlichen Mailingliste. Im Grunde ist es die Anmeldung zum Archiv des "
+"Forums, nicht zur Mailingliste. Die Anmeldung beim Archiv garantiert nicht, "
+"daß Beiträge von der Mailingliste akzeptiert werden."
+
+#. type: Plain text, ID:80
+#: Line:147
+msgid ""
+"<b>IMPORTANT</b>: You must subscribe this archive to the mailing list in "
+"order to make it work."
+msgstr ""
+"<b>WICHTIG</b>: Das Archiv muss bei der Mailingliste angemeldet werden, "
+"damit alles funktioniert."
+
+#. type: Plain text, ID:81
+#: Line:148
+msgid "blog"
+msgstr "bloggen"
+
+#. type: Plain text, ID:82
+#: Line:149
+msgid "Blog"
+msgstr "Blog"
+
+#. type: Plain text, ID:83
+#: Line:150
+msgid ""
+"<b>Note</b>: Since you are an administrator, you can <n.page_node."
+"change_permissions_link.>change the permissions of <t.location/></n."
+"page_node.change_permissions_link.> and make sure you can create new topics "
+"here."
+msgstr ""
+"<b>Hinweis</b>: Dem Administrator ist es nun möglich <n.page_node."
+"change_permissions_link.>die Berechtigungen von <n.location/> bearbeiten</n."
+"page_node.change_permissions_link.> und sicher zu stellen, dass hier neue "
+"Beiträge erstellt werden können."
+
+#. type: Plain text, ID:84
+#: Line:151
+#, fuzzy
+msgid "board"
+msgstr "Gremium"
+
+#. type: Plain text, ID:85
+#: Line:152
+#, fuzzy
+msgid "Board"
+msgstr "Gremium"
+
+#. type: Plain text, ID:86
+#: Line:153
+msgid "Bold"
+msgstr "Fett"
+
+#. type: Plain text, ID:87
+#: Line:154
+msgid ""
+"<b>Warning:</b> The search index is currently being rebuilt. Search results "
+"may be incomplete."
+msgstr ""
+"<b>Warnung:</b> Der Suchindex wird gerade neu erstellt. Suchergebnisse "
+"könnten unvollständig sein."
+
+#. type: Plain text, ID:88
+#: Line:155
+msgid "by <t.author/>"
+msgstr "von <t.author/>"
+
+#. type: Plain text, ID:89
+#: Line:156
+msgid "Cancel"
+msgstr "Abbrechen"
+
+#. type: Plain text, ID:90
+#: Line:157
+msgid "category"
+msgstr "Kategorie"
+
+#. type: Plain text, ID:91
+#: Line:158
+msgid "Category"
+msgstr "Kategorie"
+
+#. type: Plain text, ID:92
+#: Line:159
+msgid "CAUTION: this action cannot be reverted."
+msgstr "ACHTUNG: Diese Aktion kann nicht rückgängig gemacht werden."
+
+#. type: Plain text, ID:93
+#: Line:160
+msgid "Change appearance"
+msgstr "Aussehen ändern"
+
+#. type: Plain text, ID:94
+#: Line:161
+msgid "Change application type"
+msgstr "Typ der Anwendung ändern"
+
+#. type: Plain text, ID:95
+#: Line:162
+msgid "Change Application Type"
+msgstr "Typ der Anwendung ändern"
+
+#. type: Plain text, ID:96
+#: Line:163
+msgid "Change code image"
+msgstr "Sicherheitsabbildung ändern"
+
+#. type: Plain text, ID:97
+#: Line:164
+msgid "Change domain name"
+msgstr "Domainname ändern"
+
+#. type: Plain text, ID:98
+#: Line:165
+msgid "Change language"
+msgstr "Sprache ändern"
+
+#. type: Plain text, ID:99
+#: Line:166
+msgid "Change or remove your avatar image."
+msgstr "Profilbild ändern oder löschen."
+
+#. type: Plain text, ID:100
+#: Line:167
+msgid "Change parent"
+msgstr "Vorgänger ändern"
+
+#. type: Plain text, ID:101
+#: Line:168
+msgid "Change permissions"
+msgstr "Rechte ändern"
+
+#. type: Plain text, ID:102
+#: Line:169
+msgid "Change Permissions"
+msgstr "Rechte ändern"
+
+#. type: Plain text, ID:103
+#: Line:170
+msgid "Change post date"
+msgstr "Beitragsdatum ändern"
+
+#. type: Plain text, ID:104
+#: Line:171
+msgid "Change Post Date"
+msgstr "Beitragsdatum ändern"
+
+#. type: Plain text, ID:105
+#: Line:172
+msgid ""
+"Change the signature text that is displayed at the bottom of your posts."
+msgstr "Signaturtext ändern, der unter eigenen Beiträgen angezeigt wird."
+
+#. type: Plain text, ID:106
+#: Line:173
+msgid "Change User Groups"
+msgstr "Gruppenzuordnung ändern"
+
+#. type: Plain text, ID:107
+#: Line:174
+msgid "Change viewing preferences and other settings."
+msgstr "Anzeigeeigenschaften und andere Einstellungen ändern."
+
+#. type: Plain text, ID:108
+#: Line:175
+msgid "Change Your Picture"
+msgstr "Profilbild ändern"
+
+#. type: Plain text, ID:109
+#: Line:176
+msgid "Change your registered email address, password, and your user name."
+msgstr "Email-Adresse, Passwort und Benutzername ändern."
+
+#. type: Plain text, ID:110
+#: Line:177
+msgid "Child abuse"
+msgstr "Kindesmissbrauch"
+
+#. type: Plain text, ID:111
+#: Line:178
+msgid "Choose a subcategory"
+msgstr "Unterkategorie auswählen"
+
+#. type: Plain text, ID:112
+#: Line:179
+msgid "Choose a subcategory to post your message"
+msgstr "Unterkategorie für den Beitrag auswählen"
+
+#. type: Plain text, ID:113
+#: Line:180
+msgid "Choose the best offer for you"
+msgstr "Bestes Angebot auswählen"
+
+#. type: Plain text, ID:114
+#: Line:181
+msgid "Classic"
+msgstr "Klassisch"
+
+#. type: Plain text, ID:115
+#: Line:182
+msgid "Clear Log"
+msgstr "Protokoll löschen"
+
+#. type: Plain text, ID:116
+#: Line:183
+msgid "Click for more options"
+msgstr "Für mehr Optionen anklicken"
+
+#. type: Plain text, ID:117
+#: Line:184
+msgid "click here"
+msgstr "hier klicken"
+
+#. type: Plain text, ID:118
+#: Line:185
+msgid "Click here to make your first post"
+msgstr "Hier klicken um den ersten Beitrag zu erstellen"
+
+#. type: Plain text, ID:119
+#: Line:186
+msgid "Click to filter"
+msgstr "Zum Filtern klicken"
+
+#. type: Plain text, ID:120
+#: Line:187
+msgid "Close"
+msgstr "Schließen"
+
+#. type: Plain text, ID:121
+#: Line:188
+msgid "Close this message"
+msgstr "Diese Nachricht schließen"
+
+#. type: Plain text, ID:122
+#: Line:189
+msgid "comment"
+msgstr "kommentieren"
+
+#. type: Plain text, ID:123
+#: Line:190
+msgid "Comment"
+msgstr "Kommentar"
+
+#. type: Plain text, ID:124
+#: Line:191
+msgid "comments"
+msgstr "Kommentare"
+
+#. type: Plain text, ID:125
+#: Line:192
+msgid "Comments"
+msgstr "Kommentare"
+
+#. type: Plain text, ID:126
+#: Line:193
+msgid "Confirm Password"
+msgstr "Passwort bestätigen"
+
+#. type: Plain text, ID:127
+#: Line:194
+msgid "Confirm Subscription"
+msgstr "Anmeldung bestätigen"
+
+#. type: Plain text, ID:128
+#: Line:195
+msgid "Congratulations!"
+msgstr "Glückwunsch!"
+
+#. type: Plain text, ID:129
+#: Line:196
+msgid "Congratulations on your new <t.app/>!"
+msgstr "Glückwunsch zum neuen <n.app/>!"
+
+#. type: Plain text, ID:130
+#: Line:197
+msgid ""
+"Content promoting hatred or violence, abusing vulnerable individuals, "
+"bullying, racial intolerance or advocacy against any individual, group or "
+"organisation or excessive profanity."
+msgstr ""
+"Inhalt zur Förderung von  Hass oder Gewalt, Missbrauch schutzloser Personen,"
+"Mobbing, rassische Intoleranz oder Eintreten gegen jegliche Person, Gruppe "
+"oderOrganisation oder übermäßige Obszönität."
+
+#. type: Plain text, ID:131
+#: Line:198
+msgid "CONTENTS DELETED"
+msgstr "INHALTE GELÖSCHT"
+
+#. type: Plain text, ID:132
+#: Line:199
+msgid "Continue"
+msgstr "Weiter"
+
+#. type: Plain text, ID:133
+#: Line:200
+msgid "Copyright or privacy infringement or other legal claim."
+msgstr "Verletzung von Urheberrecht, Privatsphäre oder anderer Rechte."
+
+#. type: Plain text, ID:134
+#: Line:201
+#, fuzzy
+msgid "Count"
+msgstr "Zähler"
+
+#. type: Plain text, ID:135
+#: Line:202
+msgid "Created by <t.author/>"
+msgstr "Erstellt von <t.author/>"
+
+#. type: Plain text, ID:136
+#: Line:203
+msgid "Create new <t.element/>"
+msgstr "Neues Element <n.element/> erstellen"
+
+#. type: Plain text, ID:137
+#: Line:204
+msgid "Create <t.element/>"
+msgstr "Erstelle <t.element/>"
+
+#. type: Plain text, ID:138
+#: Line:205
+msgid "Current Credits"
+msgstr "Punktestand"
+
+#. type: Plain text, ID:139
+#: Line:206
+msgid "Currently Nabble supports"
+msgstr "Momentan unterstützt Nabble"
+
+#. type: Plain text, ID:140
+#: Line:207
+msgid "Current Subscribers"
+msgstr "Derzeitige Teilnehmer"
+
+#. type: Plain text, ID:141
+#: Line:208
+msgid "Daily digest"
+msgstr "Tägliche Zusammenfassung"
+
+#. type: Plain text, ID:142
+#: Line:209
+msgid "Data successfully saved"
+msgstr "Daten erfolgreich gespeichert"
+
+#. type: Plain text, ID:143
+#: Line:210
+msgid "Date"
+msgstr "Datum"
+
+#. type: Plain text, ID:144
+#: Line:211
+msgid "days"
+msgstr "Tage"
+
+#. type: Plain text, ID:145
+#: Line:212
+msgid "Dear <t.name/>,"
+msgstr "Hallo <t.name/>,"
+
+#. type: Plain text, ID:146
+#: Line:213
+msgid "Dear user,"
+msgstr "Hallo Teilnehmer,"
+
+#. type: Plain text, ID:147
+#: Line:214
+msgid "Default"
+msgstr "Standard"
+
+#. type: Plain text, ID:148
+#: Line:215
+msgid "Delete all posts from this user"
+msgstr "Lösche alle Beiträge dieses Teilnehmers"
+
+#. type: Plain text, ID:149
+#: Line:216
+msgid "Delete Application"
+msgstr "Lösche Anwendung"
+
+#. type: Plain text, ID:150
+#: Line:217
+msgid "Deleted posts"
+msgstr "Lösche Beitrag"
+
+#. type: Plain text, ID:151
+#: Line:218
+msgid "Delete"
+msgstr "Löschen"
+
+#. type: Plain text, ID:152
+#: Line:219
+msgid "Delete this post and replies"
+msgstr "Lösche diesen Beitrag und alle Antworten"
+
+#. type: Plain text, ID:153
+#: Line:220
+msgid "Delete this post"
+msgstr "Lösche diesen Beitrag"
+
+#. type: Plain text, ID:154
+#: Line:221
+msgid "Delete this topic"
+msgstr "Lösche dieses Thema"
+
+#. type: Plain text, ID:155
+#: Line:222
+msgid "Description is in HTML Format"
+msgstr "Beschreibung ist im HTML-Format"
+
+#. type: Plain text, ID:156
+#: Line:223
+msgid ""
+"Don't post repeatedly. Wait for a few days. People will read your post by "
+"email."
+msgstr ""
+"Nicht wiederholt versenden. Erst ein paar Tage abwarten. Die Leute lesen den "
+"Beitrag per Email."
+
+#. type: Plain text, ID:157
+#: Line:224
+msgid "Don't show this message again"
+msgstr "Diese Nachricht nicht wieder anzeigen."
+
+#. type: Plain text, ID:158
+#: Line:225
+msgid "Do you really want to delete this post?"
+msgstr "Diesen Beitrag wirklich löschen?"
+
+#. type: Plain text, ID:159
+#: Line:226
+msgid "Do you really want to permanently delete this message and all replies?"
+msgstr "Diesen Beitrag samt aller Antworten unwiederbringlich löschen? "
+
+#. type: Plain text, ID:160
+#: Line:227
+msgid ""
+"Do you really want to permanently <n.important.>delete</n.important.> <t."
+"location/>?"
+msgstr ""
+"Soll <t.location/> wirklich unwiederbringlich <n.important.>gelöscht</n."
+"important.> werden?"
+
+#. type: Plain text, ID:161
+#: Line:228
+msgid "Do you really want to remove the mailing list archive settings?"
+msgstr ""
+"Sollen die die Archiv-Einstellungen der Mailing-Liste wirklich gelöscht "
+"werden?"
+
+#. type: Plain text, ID:162
+#: Line:229
+msgid "Do you really want to subscribe to <t.location/>?"
+msgstr "Soll tatsächlich ein Abonnement für <n.location/> eingerichtet werden?"
+
+#. type: Plain text, ID:163
+#: Line:230
+msgid "Do you really want to unban this user?"
+msgstr "Soll dieser Nutzer tatsächlich aus der Verbannung befreit werden?"
+
+#. type: Plain text, ID:164
+#: Line:231
+msgid "Do you really want to unsubscribe from <t.location/>?"
+msgstr "Soll das Abonnement für <n.location/> tatsächlich beendet werden?"
+
+#. type: Plain text, ID:165
+#: Line:232
+#, fuzzy
+msgid ""
+"Drug abuse, illicit drugs and drug paraphernalia content, abuse of fire or "
+"explosives, selling of beer or hard alcohol, tobacco and related products, "
+"weapons or ammunition or other dangerous acts."
+msgstr ""
+"Drogenmissbrauch, Inhalte über illegale Drogen und entsprechende Ausrüstung, "
+"Missbrauch von Feuer und Sprengstoff, Verkauf von Bier oder harten "
+"Getränken, Tabak und Rauchbarem, Waffen oder Munition oder andere "
+"gefährliche Tätigkeiten."
+
+#. type: Plain text, ID:166
+#: Line:233
+msgid "Edit name & description"
+msgstr "Namen und Beschreibung bearbeiten"
+
+#. type: Plain text, ID:167
+#: Line:234
+msgid "Edit Name & Description"
+msgstr "Bearbeitung Name & Beschreibung"
+
+#. type: Plain text, ID:168
+#: Line:235
+#, fuzzy
+msgid "Editor"
+msgstr "Bearbeiter"
+
+#. type: Plain text, ID:169
+#: Line:236
+msgid "Edit Personal Information"
+msgstr "Bearbeitung Persönliche Informationen"
+
+#. type: Plain text, ID:170
+#: Line:237
+msgid "Edit post"
+msgstr "Beitrag bearbeiten"
+
+#. type: Plain text, ID:171
+#: Line:238
+msgid "Edit Subscription"
+msgstr "Bearbeitung Abonnement"
+
+#. type: Plain text, ID:172
+#: Line:239
+msgid "Edit Your Signature"
+msgstr "Bearbeitung Signatur"
+
+#. type: Plain text, ID:173
+#: Line:240
+msgid "Email Confirmation"
+msgstr "eMail Bestätigung"
+
+#. type: Plain text, ID:174
+#: Line:241
+msgid "Email for <t.app/>"
+msgstr "eMail für <n.app/>"
+
+#. type: Plain text, ID:175
+#: Line:242
+msgid "Email"
+msgstr "eMail"
+
+#. type: Plain text, ID:176
+#: Line:243
+msgid "Email Subscription"
+msgstr "eMail Abonnement"
+
+#. type: Plain text, ID:177
+#: Line:244
+msgid "Email this post to..."
+msgstr "Diesen Beitrag per eMail senden an..."
+
+#. type: Plain text, ID:178
+#: Line:245
+msgid "Embedding Contents"
+msgstr "Inhalte Einbetten"
+
+#. type: Plain text, ID:179
+#: Line:246
+msgid "Embedding options"
+msgstr "Einbettungs-Einstellungen"
+
+#. type: Plain text, ID:180
+#: Line:247
+msgid "Embed"
+msgstr "Einbetten"
+
+#. type: Plain text, ID:181
+#: Line:248
+msgid "Embed post"
+msgstr "Beitrag einbetten"
+
+#. type: Plain text, ID:182
+#: Line:249
+msgid "Embed Tags"
+msgstr "Marker für Einbettung"
+
+#. type: Plain text, ID:183
+#: Line:250
+msgid "Embed this <t.app/>"
+msgstr "Einbetten von <n.app/>"
+
+#. type: Plain text, ID:184
+#: Line:251
+msgid "Empty"
+msgstr "Leer"
+
+#. type: Plain text, ID:185
+#: Line:252
+msgid "Enter a valid email address."
+msgstr "Bitte eine gültige eMail-Adresse eingeben."
+
+#. type: Plain text, ID:186
+#: Line:253
+msgid ""
+"Enter below your email address and we will send a confirmation email to you."
+msgstr ""
+"Bitte hier die eMail-Adresse angeben, an die wir eine Bestätigung senden "
+"sollen."
+
+#. type: Plain text, ID:187
+#: Line:254
+msgid "Enter one email address or user name per row:"
+msgstr "Bitte pro Zeile einen Nutzernamen oder ein eMail-Adresse eingeben:"
+
+#. type: Plain text, ID:188
+#: Line:255
+msgid "Enter one user per row"
+msgstr "Bitte einen Nutzer pro Zeile eingeben"
+
+#. type: Plain text, ID:189
+#: Line:256
+msgid ""
+"Enter permalink of the <b>post</b> or <b>forum</b> that will be the new "
+"parent, or leave blank to make this message an independent topic:"
+msgstr ""
+"Bitte statischen Link für den <b>Beitrag</b> oder das <b>Forum</b> eingeben, "
+"welcher der neue Vorgänger sein soll, oder leer lassen, um aus dieser "
+"Nachricht ein unabhängiges Thema zu machen:"
+
+#. type: Plain text, ID:190
+#: Line:257
+msgid ""
+"Enter the homepage of this mailing list, where users can find more "
+"information."
+msgstr ""
+"Bitte eine Homepage für diese Mailing-Liste eingeben, auf der Nutzer weitere "
+"Informationen finden."
+
+#. type: Plain text, ID:191
+#: Line:258
+msgid ""
+"Enter the prefix that this mailing list uses before the subject. The prefix "
+"will be automatically removed from the imported emails."
+msgstr ""
+"Bitte das Präfix angeben, das für diese Mailing-Liste vor dem Betreff "
+"verwendet wird. Dieses Präfix wird automatisch aus dem Betreff der "
+"importierten eMails entfernt."
+
+#. type: Plain text, ID:192
+#: Line:259
+msgid "Enter your email address"
+msgstr "Bitte die eMail-Adresse eingeben"
+
+#. type: Plain text, ID:193
+#: Line:260
+msgid "Example: johnsmith@domain.com"
+msgstr "Beispiel: klauskinski@domain.com"
+
+#. type: Plain text, ID:194
+#: Line:261
+msgid "Example: listname@listdomain.com"
+msgstr "Beispiel: listenname@listendomain.de"
+
+#. type: Plain text, ID:195
+#: Line:262
+msgid "Examples:"
+msgstr "Beispiele:"
+
+#. type: Plain text, ID:196
+#: Line:263
+msgid "Examples: '[the-list]', 'Abc:', etc."
+msgstr "Beispiele: '[ListenName]', 'Abc:', etc."
+
+#. type: Plain text, ID:197
+#: Line:264
+msgid ""
+"Explain to the administrator(s) why you want to access this restricted area."
+msgstr ""
+"Bitte die Begründung für den Zugriffswunsch auf diesen Bereich als kurze "
+"Erklärung an die Administratoren formulieren."
+
+#. type: Plain text, ID:198
+#: Line:265
+msgid "Explanation from this user:"
+msgstr "Begründung dieses Nutzers:"
+
+#. type: Plain text, ID:199
+#: Line:266
+msgid "Extras & add-ons"
+msgstr "Extras & Erweiterungen"
+
+#. type: Plain text, ID:200
+#: Line:267
+msgid "Failed"
+msgstr "Fehlgeschlagen"
+
+#. type: Plain text, ID:201
+#: Line:268
+msgid "Favorite (click to remove this item from your favorites list)"
+msgstr "Favorit (klicken, um das Element aus der Favoriten-Liste zu entfernen)"
+
+#. type: Plain text, ID:202
+#: Line:269
+msgid "Feeds"
+msgstr "Feeds"
+
+#. type: Plain text, ID:203
+#: Line:270
+msgid ""
+"File was not uploaded: <t.file/> (please upload again or remove the tag)"
+msgstr ""
+"Datei wurde nicht hochgeladen: <n.file/> (bitte erneut versuchen oder den "
+"Marker entfernen)"
+
+#. type: Plain text, ID:204
+#: Line:271
+msgid "Filter by group"
+msgstr "Nach Gruppe filtern"
+
+#. type: Plain text, ID:205
+#: Line:272
+#, fuzzy
+msgid "Floating sub-forum"
+msgstr "Schwebendes Unterforum"
+
+#. type: Plain text, ID:206
+#: Line:273
+msgid "Forgot Password?"
+msgstr "Passwort Vergessen?"
+
+#. type: Plain text, ID:207
+#: Line:274
+msgid "Forgot your password?"
+msgstr "Wurde das Passwort vergessen?"
+
+#. type: Plain text, ID:208
+#: Line:275
+msgid "For more info, see: <t.info/>"
+msgstr "Weitere Informationen unter: <n.info/>"
+
+#. type: Plain text, ID:209
+#: Line:276
+msgid "forum"
+msgstr "Forum"
+
+#. type: Plain text, ID:210
+#: Line:277
+msgid "Forum"
+msgstr "Forum"
+
+#. type: Plain text, ID:211
+#: Line:278
+#, fuzzy
+msgid "Free Embeddable <t.app/>"
+msgstr "Freie Einbettung <n.app/>"
+
+#. type: Plain text, ID:212
+#: Line:279
+msgid ""
+"From now on, you will receive an email for each message posted under <t."
+"location/>."
+msgstr ""
+"Von nun an wird eine persönliche eMail bei jeder neuen Nachricht in <n."
+"location/> versandt."
+
+#. type: Plain text, ID:213
+#: Line:280
+msgid "gallery"
+msgstr "Gallerie"
+
+#. type: Plain text, ID:214
+#: Line:281
+msgid "Gallery"
+msgstr "Gallerie"
+
+#. type: Plain text, ID:215
+#: Line:282
+msgid "Gambling or casino-related content"
+msgstr "Glücksspiel oder Inhalte bzgl. Spielbanken"
+
+#. type: Plain text, ID:216
+#: Line:283
+msgid "Go back"
+msgstr "Zurück"
+
+#. type: Plain text, ID:217
+#: Line:284
+msgid "Go to next message"
+msgstr "Weiter zur nächsten Nachricht"
+
+#. type: Plain text, ID:218
+#: Line:285
+msgid "Group Name:"
+msgstr "Gruppenname:"
+
+#. type: Plain text, ID:219
+#: Line:286
+msgid "Groups"
+msgstr "Gruppen"
+
+#. type: Plain text, ID:220
+#: Line:287
+msgid "Groups of this user"
+msgstr "Gruppenzugehörigkeiten dieses Nutzers"
+
+#. type: Plain text, ID:221
+#: Line:288
+msgid "Hacking / cracking"
+msgstr "Hacking / Cracking"
+
+#. type: Plain text, ID:222
+#: Line:289
+msgid "Harmful dangerous acts"
+msgstr "Schädlich gefährliche Tätigkeiten"
+
+#. type: Plain text, ID:223
+#: Line:290
+msgid "Hateful or abusive content"
+msgstr "Hassvolle oder missbrauchende Inhalte"
+
+#. type: Plain text, ID:224
+#: Line:291
+msgid "Help"
+msgstr "Hilfe"
+
+#. type: Plain text, ID:225
+#: Line:292
+msgid ""
+"Here you can buy credits that will keep your Nabble application free of ads. "
+"Each credit represents a page view without advertisement. Visitors will see "
+"pages without ads while you still have credits available. Nabble will start "
+"to show ads when you have zero credits."
+msgstr ""
+"Hier können Kredit-Punkte erworben werden, die diese Nabble-Anwendung vor "
+"Werbeanzeigen schützen. Jeder Kredit-Punkt entspricht dabei einem "
+"Seitenansichts-Vorgang ohne Werbeeinblendung. Besucher werden also so lange "
+"werbefreie Webseiten sehen, wie Kredit-Punkte vorhanden sind. Nabble wird "
+"mit der Einblendung von Werbeanzeigen beginnen/fortfahren, sobald keine "
+"Kredit-Punkte mehr vorhanden sind."
+
+#. type: Plain text, ID:226
+#: Line:293
+msgid ""
+"Here you can hide the current mailing list archive information from the "
+"users. This option can help you replace your mailing list server with "
+"Nabble's email subscription feature."
+msgstr ""
+"Hier können die aktuellen Archiv-Informationen der Mailing-Liste von den "
+"Nutzern verborgen werden. Diese Einstellung kann dabei unterstützen, den "
+"aktuellen Server der Mailing-Liste gegen Nabbles eMail-Abonnierfunktion "
+"auszutauschen."
+
+#. type: Plain text, ID:227
+#: Line:294
+msgid ""
+"Hide email address (e.g., user@host.com to <n.lt/>hidden email<n.gt/> link)"
+msgstr ""
+"eMail-Adresse verbergen (Austausch von z.B. user@host.com gegen <n.lt/"
+">verborgene eMail<n.gt/>)"
+
+#. type: Plain text, ID:228
+#: Line:295
+msgid "Hide email"
+msgstr "eMail verbergen"
+
+#. type: Plain text, ID:229
+#: Line:296
+msgid "Hide mailing list archive information from users"
+msgstr "Archiv-Informationen bzgl. der Mailing-Liste vor Nutzern verbergen"
+
+#. type: Plain text, ID:230
+#: Line:297
+msgid "Highest"
+msgstr "Höchste"
+
+#. type: Plain text, ID:231
+#: Line:298
+msgid "High"
+msgstr "Hoch"
+
+#. type: Plain text, ID:232
+#: Line:299
+msgid "Hi <t.name/>,"
+msgstr "Hallo <n.name/>,"
+
+#. type: Plain text, ID:233
+#: Line:300
+msgid ""
+"If this email address is yours, you should <n.register_link.>register</n."
+"register_link.> using this same address. After registration, you will own "
+"this user account."
+msgstr ""
+"Falls dies die persönliche eMail-Adresse ist, sollte nun eine <n."
+"register_link.>Registrierung</n.register_link.> unter Nutzung der gleichen "
+"eMail-Adresse erfolgen. Nach erfolgreicher Registrierung ist das persönliche "
+"Nutzerkonto eingerichtet."
+
+#. type: Plain text, ID:234
+#: Line:301
+msgid ""
+"If you are not receiving emails from Nabble, please check your <b>spam</b> "
+"folder."
+msgstr ""
+"Falls keine eMail-Nachrichten von Nabble eintreffen, sollte der Ordner "
+"<b>spam</b> überprüft werden."
+
+#. type: Plain text, ID:235
+#: Line:302
+msgid ""
+"If you are posting a question, please try search first. Your question may "
+"have already been answered."
+msgstr ""
+"Falls eine neue Frage erstellt werden soll, bitte erst aktiv nach einer "
+"Antwort suchen. Die Frage könnte bereits beantwortet worden sein."
+
+#. type: Plain text, ID:236
+#: Line:303
+msgid ""
+"If you are still not a member, you can <n.register_link.><b>register now</"
+"b></n.register_link.>."
+msgstr ""
+"Falls noch keine Mitgliedschaft besteht, kann eine <n.register_link."
+"><b>Registrierung</b></n.register_link.> jetzt erfolgen."
+
+#. type: Plain text, ID:237
+#: Line:304
+msgid ""
+"If you ban this user, he/she won't be able to do anything in <t.location/>."
+msgstr ""
+"Falls dieser Nutzer verbannt wird, kann er/sie nichts mehr in <n.location/> "
+"tun."
+
+#. type: Plain text, ID:238
+#: Line:305
+msgid ""
+"If you didn't request this email or have no idea why you received it, please "
+"ignore it. It might have been a mistake from someone else."
+msgstr ""
+"Falls diese eMail nicht angefordert wurde oder keine Kenntnis bzgl. des "
+"Hintergrundes besteht, wird darum gebeten, diese eMail einfach zu "
+"ignorieren. Es wird sich wahrscheinlich um ein Missverständnis handeln."
+
+#. type: Plain text, ID:239
+#: Line:306
+#, fuzzy
+msgid ""
+"If you don't want to register yet, just enter the email address from which "
+"you intend to post, and your personal address will be emailed to you."
+msgstr ""
+"Falls eine Registrierung noch nicht gewünscht ist, sollte hier zumindest die "
+"eMail-Adresse eingegeben werden, die als Senderadresse verwendet werden "
+"soll. Die persönlichen Adressdaten werden dann per eMail zugesandt."
+
+#. type: Plain text, ID:240
+#: Line:307
+msgid ""
+"If you have already removed the subscription, then you can proceed with the "
+"deletion."
+msgstr ""
+"Falls das Abonnement bereits beendet wurde, kann mit der Löschung "
+"fortgefahren werden."
+
+#. type: Plain text, ID:241
+#: Line:308
+msgid ""
+"If you know, please select the mailing list server application and its "
+"version."
+msgstr ""
+"Falls bekannt, bitte die Applikation der Mailing-Liste und ihre Version "
+"auswählen."
+
+#. type: Plain text, ID:242
+#: Line:309
+msgid ""
+"If you logged out by mistake, please <n.login_link.>log in again</n."
+"login_link.>."
+msgstr ""
+"Falls irtümlicherweise eine Abmeldung erfolgt ist, bitte wieder <n."
+"login_link.>anmelden</n.login_link.>."
+
+#. type: Plain text, ID:243
+#: Line:310
+msgid ""
+"If you reply to this email, your message will be added to the discussion "
+"below"
+msgstr ""
+"Falls direkt auf diese eMail geantwortet wird, erfolgt direktes Einfügen in "
+"diese Diskussion"
+
+#. type: Plain text, ID:244
+#: Line:311
+msgid ""
+"If you unban this user, he/she will be able to post messages in <t.location/"
+"> again."
+msgstr ""
+"Falls dieser Nutzer aus der Verbannung befreit wird, wird er/sie wieder "
+"Nachrichten in <n.location/> verfassen können."
+
+#. type: Plain text, ID:245
+#: Line:312
+msgid ""
+"If you want to subscribe to the mailing list instead, <n."
+"mailing_list_options_link.>visit this page</n.mailing_list_options_link.>."
+msgstr ""
+"Falls die Mailing-Liste stattdessen abonniert werden soll, bitte diesem Link "
+"für <n.mailing_list_options_link.> Einstellungen</n."
+"mailing_list_options_link.> folgen."
+
+#. type: Plain text, ID:246
+#: Line:313
+msgid "Ignore X-No-Archive header"
+msgstr "Ignoriere X-No-Archive Header-Element"
+
+#. type: Plain text, ID:247
+#: Line:314
+msgid ""
+"I have read and I agree to Nabble's <n.terms_link.>Terms of Use</n."
+"terms_link.>."
+msgstr ""
+"Ich habe die <n.terms_link.>Nutzungsbedingungen</n.terms_link.> von Nabble "
+"gelesen und bin damit einverstanden."
+
+#. type: Plain text, ID:248
+#: Line:315
+msgid ""
+"Image was not uploaded: <t.image/> (please upload again or remove the tag)"
+msgstr ""
+"Bild wurde nicht hochgeladen: <n.image/> (bitte nochmals versuchen oder den "
+"Marker entfernen)"
+
+#. type: Plain text, ID:249
+#: Line:316
+msgid "I'm a subscriber, let me post now"
+msgstr "Ich bin ein Abonnent und möchte etwas verfassen"
+
+#. type: Plain text, ID:250
+#: Line:317
+msgid "Incorrect Login!"
+msgstr "Falsche Anmeldedaten!"
+
+#. type: Plain text, ID:251
+#: Line:318
+msgid "Individual emails"
+msgstr "Individuelle eMails"
+
+#. type: Plain text, ID:252
+#: Line:319
+msgid "Inherit"
+msgstr "Erben"
+
+#. type: Plain text, ID:253
+#: Line:320
+msgid "In Reply To"
+msgstr "Als Antwort Auf"
+
+#. type: Plain text, ID:254
+#: Line:321
+msgid "In reply to <n.parent_link.>this post</n.parent_link.> by <t.author/>"
+msgstr ""
+"Als Antwort auf <n.parent_link.>diesen Beitrag</n.parent_link.> von <n."
+"author/>"
+
+#. type: Plain text, ID:255
+#: Line:322
+msgid "Insert"
+msgstr "Einfügen"
+
+#. type: Plain text, ID:256
+#: Line:323
+msgid "Insert Image"
+msgstr "Bild Einfügen"
+
+#. type: Plain text, ID:257
+#: Line:324
+msgid ""
+"Instead of posting via the web interface, you can also post new topics by "
+"sending emails to the following email address:"
+msgstr ""
+"Anstelle der Nutzung des WEB-Interfaces, kann auch eine eMail an folgende "
+"Adresse gesendet werden, um einen neuen Beitrag zu verfassen:"
+
+#. type: Plain text, ID:258
+#: Line:325
+msgid "in <t.location/>"
+msgstr "in <n.location/>"
+
+#. type: Plain text, ID:259
+#: Line:326
+msgid "Invalid Code"
+msgstr "Ungültiger Code"
+
+#. type: Plain text, ID:260
+#: Line:327
+msgid "Invalid email address: <n.email/>"
+msgstr "Ungültige eMail-Adresse: <n.email/>"
+
+#. type: Plain text, ID:261
+#: Line:328
+msgid "Invalid number of days, must be integer."
+msgstr "Ungültige Anzahl von Tagen; diese muss eine Ganzzahl sein."
+
+#. type: Plain text, ID:262
+#: Line:329
+msgid "invisible user"
+msgstr "unsichtbarer Nutzer"
+
+#. type: Plain text, ID:263
+#: Line:330
+msgid "invisible users"
+msgstr "unsichtbare Nutzer"
+
+#. type: Plain text, ID:264
+#: Line:331
+msgid "Invite Subscribers"
+msgstr "Abonnenten Einladen"
+
+#. type: Plain text, ID:265
+#: Line:332
+msgid "is:"
+msgstr "ist:"
+
+#. type: Plain text, ID:266
+#: Line:333
+msgid "is not:"
+msgstr "ist nicht:"
+
+#. type: Plain text, ID:267
+#: Line:334
+msgid "is within the last:"
+msgstr "ist innerhalb der letzten:"
+
+#. type: Plain text, ID:268
+#: Line:335
+msgid "Italic"
+msgstr "Kursiv"
+
+#. type: Plain text, ID:269
+#: Line:336
+msgid "item"
+msgstr "Element"
+
+#. type: Plain text, ID:270
+#: Line:337
+msgid "items"
+msgstr "Elemente"
+
+#. type: Plain text, ID:271
+#: Line:338
+msgid "It will NOT be possible to restore deleted items later."
+msgstr ""
+"Es wird NICHT möglich sein, gelöschte Elemente später wiederherzustellen."
+
+#. type: Plain text, ID:272
+#: Line:339
+msgid ""
+"Just paste the code (provided by the sites above) within these tags and you "
+"are ready to post it."
+msgstr ""
+"Bitte einfach den (von den oben erwähnten Seiten erhaltenen) Code innerhalb "
+"dieser Marker platzieren, um entsprechend Beiträge zu verfassen."
+
+#. type: Plain text, ID:273
+#: Line:340
+msgid "Last Post"
+msgstr "Letzter Beitrag"
+
+#. type: Plain text, ID:274
+#: Line:341
+msgid "Learn more"
+msgstr "Mehr lernen"
+
+#. type: Plain text, ID:275
+#: Line:342
+msgid "Leave a comment"
+msgstr "Einen Kommentar hinterlassen"
+
+#. type: Plain text, ID:276
+#: Line:343
+msgid "Link"
+msgstr "Link"
+
+#. type: Plain text, ID:277
+#: Line:344
+msgid "Link to <t.location/>"
+msgstr "Link auf <n.location/>"
+
+#. type: Plain text, ID:278
+#: Line:345
+msgid "List"
+msgstr "Liste"
+
+#. type: Plain text, ID:279
+#: Line:346
+msgid "List of Subcategories"
+msgstr "Liste der Unterkategorien"
+
+#. type: Plain text, ID:280
+#: Line:347
+msgid "List Server"
+msgstr "Listen-Server"
+
+#. type: Plain text, ID:281
+#: Line:348
+msgid "List View"
+msgstr "Listenansicht"
+
+#. type: Plain text, ID:282
+#: Line:349
+msgid "Loading..."
+msgstr "Ladevorgang..."
+
+#. type: Plain text, ID:283
+#: Line:350
+msgid "Location"
+msgstr "Ort"
+
+#. type: Plain text, ID:284
+#: Line:351
+msgid "Locked"
+msgstr "Gesperrt"
+
+#. type: Plain text, ID:285
+#: Line:352
+msgid "Lock topic"
+msgstr "Thema sperren"
+
+#. type: Plain text, ID:286
+#: Line:353
+msgid "Login"
+msgstr "Anmelden"
+
+#. type: Plain text, ID:287
+#: Line:354
+msgid "Log is empty"
+msgstr "Protokoll ist leer"
+
+#. type: Plain text, ID:288
+#: Line:355
+msgid "Log out"
+msgstr "Abmelden"
+
+#. type: Plain text, ID:289
+#: Line:356
+msgid "Lowest"
+msgstr "Niedrigste"
+
+#. type: Plain text, ID:290
+#: Line:357
+msgid "Low"
+msgstr "Niedrig"
+
+#. type: Plain text, ID:291
+#: Line:358
+msgid "Mailing List Address"
+msgstr "Addresse Mailing-Liste"
+
+#. type: Plain text, ID:292
+#: Line:359
+msgid "Mailing list archive settings"
+msgstr "Archiv-Einstellungen der Mailing-Liste"
+
+#. type: Plain text, ID:293
+#: Line:360
+msgid "Mailing List Archive Settings"
+msgstr "Archiv-Einstellungen Mailing-Liste"
+
+#. type: Plain text, ID:294
+#: Line:361
+msgid "Mailing List Subscription Reminder"
+msgstr "Mailing-Liste Abonnier-Erinnerung"
+
+#. type: Plain text, ID:295
+#: Line:362
+msgid "Mailing List Website"
+msgstr "Mailing-Liste Website"
+
+#. type: Plain text, ID:296
+#: Line:363
+msgid "Main Page"
+msgstr "Hauptseite"
+
+#. type: Plain text, ID:297
+#: Line:364
+#, fuzzy
+msgid ""
+"Make sure you are using the same browser that you used to fill in the "
+"registration request."
+msgstr ""
+"Bitte sicherstellen, dass aktuell der gleiche WEB-Browser verwendet wird, "
+"der auch zur Erstellung der Registrieranfrage verwendet wurde."
+
+#. type: Plain text, ID:298
+#: Line:365
+msgid "Manage banned users"
+msgstr "Verbannte Nutzer verwalten"
+
+#. type: Plain text, ID:299
+#: Line:366
+msgid "Manage pinned topics"
+msgstr "Angeheftete Themen verwalten"
+
+#. type: Plain text, ID:300
+#: Line:367
+msgid "Manage subscribers"
+msgstr "Abonnenten verwalten"
+
+#. type: Plain text, ID:301
+#: Line:368
+msgid "Manage Subscribers"
+msgstr "Verwaltung Verbannte Nutzer"
+
+#. type: Plain text, ID:302
+#: Line:369
+msgid "Manage <t.items/>"
+msgstr "Verwaltung <n.items/>"
+
+#. type: Plain text, ID:303
+#: Line:370
+msgid "Manage users & groups"
+msgstr "Nutzer & Gruppen verwalten"
+
+#. type: Plain text, ID:304
+#: Line:371
+msgid "Manage Users & Groups"
+msgstr "Verwaltung Nutzer & Gruppen"
+
+#. type: Plain text, ID:305
+#: Line:372
+msgid "Mass advertising, misleading text, scams or fraud."
+msgstr "Massen-Werbung, irreführende Formulierungen, Betrug und Fälschung."
+
+#. type: Plain text, ID:306
+#: Line:373
+msgid "max. 80 characters"
+msgstr "max. 80 Zeichen"
+
+#. type: Plain text, ID:307
+#: Line:374
+msgid "Message date"
+msgstr "Nachrichtendatum"
+
+#. type: Plain text, ID:308
+#: Line:375
+msgid "message"
+msgstr "Nachricht"
+
+#. type: Plain text, ID:309
+#: Line:376
+msgid "Message"
+msgstr "Nachricht"
+
+#. type: Plain text, ID:310
+#: Line:377
+msgid "Message is in HTML Format"
+msgstr "Nachricht im HTML-Format"
+
+#. type: Plain text, ID:311
+#: Line:378
+msgid "messages"
+msgstr "Nachrichten"
+
+#. type: Plain text, ID:312
+#: Line:379
+msgid "Messages posted here will be sent to this mailing list."
+msgstr "Hier verfasste Nachrichten werden an die Mailing-Liste versandt."
+
+#. type: Plain text, ID:313
+#: Line:380
+msgid "Message subject contains"
+msgstr "Betreff der Nachricht enthält"
+
+#. type: Plain text, ID:314
+#: Line:381
+msgid "Message text contains"
+msgstr "Text der Nachricht enthält"
+
+#. type: Plain text, ID:315
+#: Line:382
+msgid "Mixed"
+msgstr "Gemischt"
+
+#. type: Plain text, ID:316
+#: Line:383
+msgid "Modified"
+msgstr "Verändert"
+
+#. type: Plain text, ID:317
+#: Line:384
+msgid "Archives"
+msgstr "Archive"
+
+#. type: Plain text, ID:318
+#: Line:385
+msgid "More Categories"
+msgstr "Mehr Kategorien"
+
+#. type: Plain text, ID:319
+#: Line:386
+msgid "More"
+msgstr "Mehr"
+
+#. type: Plain text, ID:320
+#: Line:387
+msgid "more help"
+msgstr "mehr Hilfe"
+
+#. type: Plain text, ID:321
+#: Line:388
+msgid "more options"
+msgstr "weitere Einstellungen"
+
+#. type: Plain text, ID:322
+#: Line:389
+msgid "Move post"
+msgstr "Verschiebe Beitrag"
+
+#. type: Plain text, ID:323
+#: Line:390
+msgid "Move Post"
+msgstr "Beitrag Verschieben"
+
+#. type: Plain text, ID:324
+#: Line:391
+msgid "Move topic"
+msgstr "Verschiebe Thema"
+
+#. type: Plain text, ID:325
+#: Line:392
+msgid "My Nabble Applications"
+msgstr "Meine Nabble-Applikationen"
+
+#. type: Plain text, ID:326
+#: Line:393
+msgid "My Pending Posts"
+msgstr "Meine Anstehenden Beiträge"
+
+#. type: Plain text, ID:327
+#: Line:394
+msgid "My posts"
+msgstr "Meine Beiträge"
+
+#. type: Plain text, ID:328
+#: Line:395
+msgid "My starred items"
+msgstr "Meine gesternten Elemente"
+
+#. type: Plain text, ID:329
+#: Line:396
+msgid "Nabble Support"
+msgstr "Nabble Support"
+
+#. type: Plain text, ID:330
+#: Line:397
+msgid "Name"
+msgstr "Name"
+
+#. type: Plain text, ID:331
+#: Line:398
+msgid "New Post"
+msgstr "Neue Nachricht"
+
+#. type: Plain text, ID:332
+#: Line:399
+msgid "news"
+msgstr "Neuigkeiten"
+
+#. type: Plain text, ID:333
+#: Line:400
+msgid "News"
+msgstr "Neuigkeiten"
+
+#. type: Plain text, ID:334
+#: Line:401
+msgid "New Topic"
+msgstr "Neues Thema"
+
+#. type: Plain text, ID:335
+#: Line:402
+msgid "New topics only"
+msgstr "Nur neue Themen"
+
+#. type: Plain text, ID:336
+#: Line:403
+msgid ""
+"<n.important.>CAUTION</n.important.>: Everything under <t.location/> will be "
+"deleted forever!"
+msgstr ""
+"<n.important.>WICHTIG</n.important.>: Alles unter <n.location/> wird "
+"unwiederbringlich gelöscht!"
+
+#. type: Plain text, ID:337
+#: Line:404
+msgid "No banned users."
+msgstr "Keine verbannten Nutzer."
+
+#. type: Plain text, ID:338
+#: Line:405
+msgid "No Filter"
+msgstr "Keine Filter"
+
+#. type: Plain text, ID:339
+#: Line:406
+msgid "none of the words:"
+msgstr "keines der Begriffe:"
+
+#. type: Plain text, ID:340
+#: Line:407
+msgid "No registered user found with this email."
+msgstr "Es wurde kein registrierter Nutzer zu dieser eMail gefunden."
+
+#. type: Plain text, ID:341
+#: Line:408
+msgid "No replies"
+msgstr "Keine Antworten"
+
+#. type: Plain text, ID:342
+#: Line:409
+msgid "Normal"
+msgstr "Normal"
+
+#. type: Plain text, ID:343
+#: Line:410
+msgid "No sub-forums"
+msgstr "Keine Unterforen"
+
+#. type: Plain text, ID:344
+#: Line:411
+msgid ""
+"Note that this address is unique to you and only accepts emails sent from <t."
+"address/>. The purpose of this design is to help prevent spam."
+msgstr ""
+"Bitte beachten, dass diese Adresse unverwechselbar ist und nur eMails "
+"akzeptiert, die von <t.address/> gesendet wurden. Der Zweck dieses Vorgehens "
+"ist die Einschränkung von Spam."
+
+#. type: Plain text, ID:345
+#: Line:412
+msgid ""
+"<n.register_link.>Register now</n.register_link.> if you want to edit your "
+"profile, receive posts via email,control your starred items or have access "
+"to your global profile."
+msgstr ""
+"<n.register_link.>Jetzt registrieren</n.register_link.>, um das Profil "
+"bearbeiten, Nachrichten per eMail empfangen, besondere Elemente markieren "
+"oder auf das globale Profil zugreifen zu können."
+
+#. type: Plain text, ID:346
+#: Line:413
+msgid "one email per input box"
+msgstr "eine eMail pro Eingangs-Box"
+
+#. type: Plain text, ID:347
+#: Line:414
+msgid "Online Users"
+msgstr "Nutzer Online"
+
+#. type: Plain text, ID:348
+#: Line:415
+msgid "Only authorized users can proceed in this area."
+msgstr "Nur autorisierte Nutzer dürfen in diesem Bereich fortfahren."
+
+#. type: Plain text, ID:349
+#: Line:416
+msgid "Open this post in classic view"
+msgstr "Diese Nachricht in der klassischen Ansicht betrachten"
+
+#. type: Plain text, ID:350
+#: Line:417
+msgid "Open this post in list view"
+msgstr "Diese Nachricht in der Listenansicht betrachten"
+
+#. type: Plain text, ID:351
+#: Line:418
+msgid "Open this post in threaded view"
+msgstr "Diese Nachricht in verschachtelter Ansicht betrachten"
+
+#. type: Plain text, ID:352
+#: Line:419
+msgid "Options"
+msgstr "Einstellungen"
+
+#. type: Plain text, ID:353
+#: Line:420
+msgid "or"
+msgstr "oder"
+
+#. type: Plain text, ID:354
+#: Line:421
+msgid ""
+"Or you can ignore this email if it is better to keep this user away from "
+"that area."
+msgstr ""
+"Die eMail kann auch ignoriert werden, um damit den Nutzer weiterhin von "
+"diesem Berech fernzuhalten."
+
+#. type: Plain text, ID:355
+#: Line:422
+msgid "Other Settings"
+msgstr "Andere Einstellungen"
+
+#. type: Plain text, ID:356
+#: Line:423
+msgid "Page that groups sub-applications and discussions."
+msgstr "Seite, die Unter-Applikationen und Diskussionen zusammenfasst."
+
+#. type: Plain text, ID:357
+#: Line:424
+msgid "Page <t.number/>"
+msgstr "Seite <n.number/>"
+
+#. type: Plain text, ID:358
+#: Line:425
+msgid "Page with a simple list of sub-applications and discussions."
+msgstr "Seite, die Unter-Applikationen und Diskussionen auflistet."
+
+#. type: Plain text, ID:359
+#: Line:426
+msgid "Page with full messages and related comments."
+msgstr "Seite, die ganze Nachrichten und zugehörige Kommentaren enthält."
+
+#. type: Plain text, ID:360
+#: Line:427
+msgid "Page with headlines and posts."
+msgstr "Seite, Überschriften und Beiträge enthält."
+
+#. type: Plain text, ID:361
+#: Line:428
+msgid "Page with topics and discussions."
+msgstr "Seite, die Themen und Diskussionen enthält."
+
+#. type: Plain text, ID:362
+#: Line:429
+msgid ""
+"Page with topics grouped by sub-applications. If no sub-apps exist, a normal "
+"list of topics is displayed."
+msgstr ""
+"Seite, die nach Unter-Applikationen gruppierte Themen enthält. Falls keine "
+"Unter-Applikationen existieren, wird eine einfache Liste der Themen "
+"angezeigt."
+
+#. type: Plain text, ID:363
+#: Line:430
+msgid "Password"
+msgstr "Passwort"
+
+#. type: Plain text, ID:364
+#: Line:431
+msgid "Password Sent"
+msgstr "Passwort Abgeschickt"
+
+#. type: Plain text, ID:365
+#: Line:432
+msgid "Pedophilia, violence and other abuses."
+msgstr "Pedophilie, Gewalt und anderer Missbrauch."
+
+#. type: Plain text, ID:366
+#: Line:433
+msgid "People"
+msgstr "Personen"
+
+#. type: Plain text, ID:367
+#: Line:434
+msgid "People in <t.location/>"
+msgstr "Personen in <n.location/>"
+
+#. type: Plain text, ID:368
+#: Line:435
+msgid "Permalink"
+msgstr "Statischer Link"
+
+#. type: Plain text, ID:369
+#: Line:436
+msgid "Photo and image gallery."
+msgstr "Foto- und Bildgalerie."
+
+#. type: Plain text, ID:370
+#: Line:437
+msgid "Pinned sub-forum"
+msgstr "Angeheftetes Unterforum"
+
+#. type: Plain text, ID:371
+#: Line:438
+msgid "Pin topic"
+msgstr "Thema anheften"
+
+#. type: Plain text, ID:372
+#: Line:439
+msgid ""
+"Please bookmark the link above or save this email so you can easily find "
+"your <t.app/> in the future."
+msgstr ""
+"Bitte Lesezeichen für den obenstehenden Link setzen oder diese eMail "
+"speichern, so dass <n.app/> in Zukunft einfach aufgesucht werden kann."
+
+#. type: Plain text, ID:373
+#: Line:440
+msgid ""
+"Please check your inbox now and activate your account in order to have "
+"access to all features."
+msgstr ""
+"Bitte jetzt den Posteingang überprüfen und das Nutzerkonto aktivieren, um "
+"Zugriff auf alle Funktionen zu haben."
+
+#. type: Plain text, ID:374
+#: Line:441
+msgid "Please click on the confirmation link below to activate your account:"
+msgstr ""
+"Bitte auf den untenstehenden Bestätigungs-Link klicken, um das Nutzerkonto "
+"zu aktivieren:"
+
+#. type: Plain text, ID:375
+#: Line:442
+msgid "Please contact Nabble Support if you need help."
+msgstr "Bitte den Nabble Support kontaktieren, falls Hilfe benötigt wird."
+
+#. type: Plain text, ID:376
+#: Line:443
+msgid "Please contact the administrators if you need help."
+msgstr "Bitte die Administratoren kontaktieren, falls Hilfe benötigt wird."
+
+#. type: Plain text, ID:377
+#: Line:444
+msgid "Please enter a correct email address and try again."
+msgstr "Bitte eine gültige eMail-Adresse eingeben und noch einmal versuchen."
+
+#. type: Plain text, ID:378
+#: Line:445
+msgid ""
+"Please follow the instructions in the email to complete the registration "
+"process."
+msgstr ""
+"Bitte die Anweisungen in der eMail befolgen, um die Registrierung "
+"abzuschließen."
+
+#. type: Plain text, ID:379
+#: Line:446
+msgid ""
+"Please follow the <n.subscribe_instructions_link.>subscription instructions</"
+"n.subscribe_instructions_link.> for this archive."
+msgstr ""
+"Bitte den <n.subscribe_instructions_link.>Registrierungsanweisungen</n."
+"subscribe_instructions_link.> für dieses Archiv folgen."
+
+#. type: Plain text, ID:380
+#: Line:447
+msgid "Please provide a valid permalink."
+msgstr "Bitte einen gültigen statischen Link angeben."
+
+#. type: Plain text, ID:381
+#: Line:448
+msgid "Please re-enter your email/password and click Login."
+msgstr ""
+"Bitte nochmals eMail-Adresse und Passwort angeben und auf Login klicken."
+
+#. type: Plain text, ID:382
+#: Line:449
+msgid "Please respect mailing list etiquette"
+msgstr "Bitte die Verhaltensregeln für Mailing-Listen respektieren"
+
+#. type: Plain text, ID:383
+#: Line:450
+msgid "Polls from Polldaddy.com (flash polls only)"
+msgstr "Umfragen von Polldaddy.com (nur Flash-Umfragen)"
+
+#. type: Plain text, ID:384
+#: Line:451
+#, fuzzy
+msgid "Post by email"
+msgstr "Per eMail verfassen"
+
+#. type: Plain text, ID:385
+#: Line:452
+#, fuzzy
+msgid "Post by Email"
+msgstr "Verfassen per eMail"
+
+#. type: Plain text, ID:386
+#: Line:453
+msgid "Post Count"
+msgstr "Anzahl Beiträge"
+
+#. type: Plain text, ID:387
+#: Line:454
+msgid "Posted by <t.author/>"
+msgstr "Verfasst von <n.author/>"
+
+#. type: Plain text, ID:388
+#: Line:455
+msgid "post"
+msgstr "Beitrag"
+
+#. type: Plain text, ID:389
+#: Line:456
+msgid "Post Message"
+msgstr "Nachricht Verfassen"
+
+#. type: Plain text, ID:390
+#: Line:457
+msgid "Post New Message"
+msgstr "Neue Nachricht Verfassen"
+
+#. type: Plain text, ID:391
+#: Line:458
+msgid "Post new message in <t.location/>"
+msgstr "Neue Nachricht in <n.location/> verfassen"
+
+#. type: Plain text, ID:392
+#: Line:459
+msgid "posts"
+msgstr "Beiträge"
+
+#. type: Plain text, ID:393
+#: Line:460
+msgid "Posts"
+msgstr "Beiträge"
+
+#. type: Plain text, ID:394
+#: Line:461
+msgid "Posts in <t.location/>"
+msgstr "Beiträge in <n.location/>"
+
+#. type: Plain text, ID:395
+#: Line:462
+msgid "Preview Message"
+msgstr "Nachrichtenvorschau"
+
+#. type: Plain text, ID:396
+#: Line:463
+#, fuzzy
+msgid ""
+"Prices are in US Dollars. This checkout process uses <n.amazon_payments_link."
+">AmazonPayments</n.amazon_payments_link.>, which enables Amazon customers to "
+"use the payment methods stored in their Amazon.com account to pay for goods "
+"and services on websites and applications accepting Amazon Payments."
+msgstr ""
+"Preise sind in US Dollar angegeben. Dieser Abrechnungsvorgang nutzt <n."
+"amazon_payments_link.>AmazonPayments</n.amazon_payments_link.>. Dies "
+"ermöglicht es den Kunden von Amazon, diejenigen Zahlungsmethoden zu nutzen, "
+"die in ihrem Kundenkonto bei Amazon.com für Güter und WEB-Dienstleistungen "
+"bereits verfügbar sind. Dies schließt auch Anwendungen ein, die Amazon-"
+"Zahlungen akzeptieren."
+
+#. type: Plain text, ID:397
+#: Line:464
+msgid "Print post"
+msgstr "Beitrag drucken"
+
+#. type: Plain text, ID:398
+#: Line:465
+msgid "Priority"
+msgstr "Priorität"
+
+#. type: Plain text, ID:399
+#: Line:466
+msgid "(private)"
+msgstr "(privat)"
+
+#. type: Plain text, ID:400
+#: Line:467
+msgid "Profile of <t.author/>"
+msgstr "Profil von <t.author/>"
+
+#. type: Plain text, ID:401
+#: Line:468
+msgid "Quote"
+msgstr "Zitieren"
+
+#. type: Plain text, ID:402
+#: Line:469
+msgid "Quote the original message"
+msgstr "Die Originalnachricht zitieren"
+
+#. type: Plain text, ID:403
+#: Line:470
+msgid ""
+"Quote what you reply to and trim it to only the relevant parts. This "
+"provides context for those who will read your message by email."
+msgstr ""
+"Bitte die (ggf. auf wesentliche Inhalte verkürzten) Anteile zitieren, zu "
+"denen in der neuen Nachricht Stellung genommen wird. Das ermöglicht ein "
+"Nachvollziehen des Sinnzusammenhangs wenn dem Leser nur die eMail-Nachricht "
+"zur Verfügung steht."
+
+#. type: Plain text, ID:404
+#: Line:471
+msgid "Raw mail"
+msgstr "Rohfassung der eMail"
+
+#. type: Plain text, ID:405
+#: Line:472
+msgid "Raw text"
+msgstr "Rohfassung des Texts"
+
+#. type: Plain text, ID:406
+#: Line:473
+msgid "read more"
+msgstr "weiter lesen"
+
+#. type: Plain text, ID:407
+#: Line:474
+msgid "Read more"
+msgstr "Weiter lesen"
+
+#. type: Plain text, ID:408
+#: Line:475
+msgid "Read-only list with all users with an email under <t.location/>."
+msgstr ""
+"Schreibgeschützte Liste aller Nutzer, die eine eMail unter <t.location/> "
+"haben."
+
+#. type: Plain text, ID:409
+#: Line:476
+msgid "Receive direct replies only."
+msgstr "Nur direkte Antworten empfangen."
+
+#. type: Plain text, ID:410
+#: Line:477
+msgid "Receive every message posted in <t.location/>."
+msgstr "Jede Nachricht empfangen, die in <t.location/> verfasst wird."
+
+#. type: Plain text, ID:411
+#: Line:478
+msgid "Receive every reply under this topic."
+msgstr "Jede Antwort zu diesem Thema empfangen."
+
+#. type: Plain text, ID:412
+#: Line:479
+msgid "Receive new topics only."
+msgstr "Nur neue Themen empfangen."
+
+#. type: Plain text, ID:413
+#: Line:480
+msgid "Refresh"
+msgstr "Aktualisieren"
+
+#. type: Plain text, ID:414
+#: Line:481
+msgid "Registered"
+msgstr "Registriert"
+
+#. type: Plain text, ID:415
+#: Line:482
+msgid "Registered Users"
+msgstr "Registrierte Nutzer"
+
+#. type: Plain text, ID:416
+#: Line:483
+msgid "Register"
+msgstr "Registrierung"
+
+#. type: Plain text, ID:417
+#: Line:484
+msgid "Registering..."
+msgstr "Registriere..."
+
+#. type: Plain text, ID:418
+#: Line:485
+msgid "Register Now"
+msgstr "Jetzt Registrieren"
+
+#. type: Plain text, ID:419
+#: Line:486
+msgid "Register to <t.app/>"
+msgstr "Für <t.app/> registrieren"
+
+#. type: Plain text, ID:420
+#: Line:487
+msgid "Registration Confirmed"
+msgstr "Registrierung Bestätigt"
+
+#. type: Plain text, ID:421
+#: Line:488
+msgid "Registration Failed"
+msgstr "Registrierung Fehlgeschlagen"
+
+#. type: Plain text, ID:422
+#: Line:489
+msgid "Related Help Article"
+msgstr "Zugeordneter Hilfstext"
+
+#. type: Plain text, ID:423
+#: Line:490
+msgid ""
+"Remember that the banning action isn't efficient because the user can always "
+"come back with a different account."
+msgstr ""
+"Bitte berücksichtigen, dass die Verbannungsaktion nicht in jedem Fall "
+"effektiv ist, da Nutzer immer wieder mit neuen Angaben ein Nutzerkonto "
+"einrichten können."
+
+#. type: Plain text, ID:424
+#: Line:491
+msgid "Remove Ads"
+msgstr "Werbung Ausblenden"
+
+#. type: Plain text, ID:425
+#: Line:492
+msgid "remove"
+msgstr "entfernen"
+
+#. type: Plain text, ID:426
+#: Line:493
+msgid "Remove Settings"
+msgstr "Einstellungen Entfernen"
+
+#. type: Plain text, ID:427
+#: Line:494
+msgid "Remove Subscription"
+msgstr "Abonnement Entfernen"
+
+#. type: Plain text, ID:428
+#: Line:495
+msgid "Remove your account and all your posts from <t.subject/>."
+msgstr ""
+"Persönliches Nutzerkonto sowie alle damit verbundenen Nachrichten bzgl. <t."
+"subject/> löschen."
+
+#. type: Plain text, ID:429
+#: Line:496
+msgid "Remove Your Account"
+msgstr "Persönliches Nutzerkonto Löschen"
+
+#. type: Plain text, ID:430
+#: Line:497
+msgid "replies"
+msgstr "Antworten"
+
+#. type: Plain text, ID:431
+#: Line:498
+msgid "Replies"
+msgstr "Antworten"
+
+#. type: Plain text, ID:432
+#: Line:499
+msgid "Reply"
+msgstr "Antwort"
+
+#. type: Plain text, ID:433
+#: Line:500
+msgid "reply"
+msgstr "antworten"
+
+#. type: Plain text, ID:434
+#: Line:501
+msgid "Reply to author"
+msgstr "Dem Verfasser antworten"
+
+#. type: Plain text, ID:435
+#: Line:502
+msgid "Report Content as Inappropriate"
+msgstr "Inhalt als Unangemessen Melden"
+
+#. type: Plain text, ID:436
+#: Line:503
+msgid "Report Now"
+msgstr "Jetzt Melden"
+
+#. type: Plain text, ID:437
+#: Line:504
+msgid "required"
+msgstr "benötigt"
+
+#. type: Plain text, ID:438
+#: Line:505
+msgid "Return to <t.location/>"
+msgstr "Zurück zu <t.location/>"
+
+#. type: Plain text, ID:439
+#: Line:506
+msgid "Save Changes"
+msgstr "Änderungen Sichern"
+
+#. type: Plain text, ID:440
+#: Line:507
+msgid "Save Settings"
+msgstr "Einstellungen Sichern"
+
+#. type: Plain text, ID:441
+#: Line:508
+msgid "Save Subscription"
+msgstr "Abonnement Sichern"
+
+#. type: Plain text, ID:442
+#: Line:509
+msgid "Search"
+msgstr "Suchen"
+
+#. type: Plain text, ID:443
+#: Line:510
+msgid "Select below the actions you want to take:"
+msgstr "Bitte hier die gewünschten Aktivitäten auswählen:"
+
+#. type: Plain text, ID:444
+#: Line:511
+msgid ""
+"Select the category that most closely reflects your concern about the "
+"contents of this page."
+msgstr ""
+"Bitte die Kategorie auswählen, die bzgl. der Inhalte dieser Seite am ehesten "
+"zutrifft."
+
+#. type: Plain text, ID:445
+#: Line:512
+msgid "Send email to me"
+msgstr "Mir eine eMail senden"
+
+#. type: Plain text, ID:446
+#: Line:513
+msgid "Send Email to <t.author/>"
+msgstr "<t.author/> eine eMail senden"
+
+#. type: Plain text, ID:447
+#: Line:514
+msgid "Send Request"
+msgstr "Anfrage Versenden"
+
+#. type: Plain text, ID:448
+#: Line:515
+msgid "Send To:"
+msgstr "Senden An:"
+
+#. type: Plain text, ID:449
+#: Line:516
+msgid "Sexual content"
+msgstr "Sexuelle Inhalte"
+
+#. type: Plain text, ID:450
+#: Line:517
+msgid "Show"
+msgstr "Zeigen"
+
+#. type: Plain text, ID:451
+#: Line:518
+msgid "Show Nabble notice"
+msgstr "Zeige Nabble Hinweis"
+
+#. type: Plain text, ID:452
+#: Line:519
+msgid "Sincerely,"
+msgstr "Mit freundlichen Grüßen,"
+
+#. type: Plain text, ID:453
+#: Line:520
+msgid ""
+"Since this application is a mailing list archive, please unsubscribe the "
+"email address below before clicking on the delete button."
+msgstr ""
+"Da diese Anwendung ein Mailinglisten-Archiv ist, sollte vor dem Druck auf "
+"die \"Entfernen\"-Schaltfläche noch diese eMail-Adresse abgemeldet wird."
+
+#. type: Plain text, ID:454
+#: Line:521
+msgid ""
+"Since you are not a registered user, we must check that you are a human."
+msgstr ""
+"Bitte die Sicherheitsabfrage zur Überprüfung aller nicht-registrierten "
+"Nutzer beantworten. Dies ist zur Vermeidung von Spam notwendig."
+
+#. type: Plain text, ID:455
+#: Line:522
+msgid ""
+"Some of your posts have been deleted from <t.location/> and we are sending "
+"you copies so that you have a chance to save them."
+msgstr ""
+"Einige der mit diesem Nutzer verbundenen Beiträge wurden von <t.location/> "
+"entfernt. Anbei nun Kopien dieser Beiträge zur Ermöglichung einer "
+"persönlichen Sicherung."
+
+#. type: Plain text, ID:456
+#: Line:523
+msgid "Sorry, but only members can post messages under <t.app/>."
+msgstr ""
+"Entschuldigung. Nur Mitglieder können unter <n.app/> Nachrichten verfassen."
+
+#. type: Plain text, ID:457
+#: Line:524
+msgid "Sorry, but the administrators have banned you."
+msgstr ""
+"Entschuldigung. Es wurde eine persönliche Verbannung von den Administratoren "
+"ausgesprochen."
+
+#. type: Plain text, ID:458
+#: Line:525
+msgid ""
+"Sorry, but this email is not authorized to view messages under <t.location/>."
+msgstr ""
+"Entschuldigung. Diese eMail-Adresse ist nicht authorisiert, um Nachrichten "
+"unter <n.location/> zu lesen."
+
+#. type: Plain text, ID:459
+#: Line:526
+msgid ""
+"Sorry, but you can't create new topics here.<br/>Note that you may still be "
+"able to reply to posts."
+msgstr ""
+"Entschuldigung. Es ist nicht möglich, Themen hier zu erstellen.<br/>Das "
+"Antworten auf Nachrichten könnte allerdings unabhängig davon möglich sein."
+
+#. type: Plain text, ID:460
+#: Line:527
+msgid "Sort by date"
+msgstr "Nach Datum sortieren"
+
+#. type: Plain text, ID:461
+#: Line:528
+msgid "Sort by relevance"
+msgstr "Nach Relevanz sortieren"
+
+#. type: Plain text, ID:462
+#: Line:529
+msgid "Sorted by date"
+msgstr "Nach Datum sortiert"
+
+#. type: Plain text, ID:463
+#: Line:530
+msgid "Sorted by relevance"
+msgstr "Nach Relevanz sortiert"
+
+#. type: Plain text, ID:464
+#: Line:531
+msgid "[Spam Detector] Invalid message with too many '<n.text/>' words."
+msgstr "[Spam Detector] Ungültige Nachricht mit zu vielen '<n.text/>' Wörtern."
+
+#. type: Plain text, ID:465
+#: Line:532
+msgid "[Spam Detector] Message cannot contain '<n.text/>'."
+msgstr "[Spam Detector] Die Nachricht darf kein '<n.text/>' enthalten."
+
+#. type: Plain text, ID:466
+#: Line:533
+msgid "[Spam Detector] Message contains common spam words."
+msgstr "[Spam Detector] Die Nachricht beinhaltet allgemeine Spam-Wörter."
+
+#. type: Plain text, ID:467
+#: Line:534
+msgid "[Spam Detector] Subject cannot contain '<n.text/>'."
+msgstr "[Spam Detector] Der Betreff darf kein '<n.text/>' enthalten."
+
+#. type: Plain text, ID:468
+#: Line:535
+msgid "[Spam Detector] Subject contains common spam words."
+msgstr "[Spam Detector] Der Betreff enthält zu viele Spam-Wörter."
+
+#. type: Plain text, ID:469
+#: Line:536
+msgid "Spam"
+msgstr "Spam"
+
+#. type: Plain text, ID:470
+#: Line:537
+msgid "Stars in <t.location/>"
+msgstr "Sterne in <n.location/>"
+
+#. type: Plain text, ID:471
+#: Line:538
+msgid "Structure"
+msgstr "Struktur"
+
+#. type: Plain text, ID:472
+#: Line:539
+msgid "Subcategories"
+msgstr "Unterkategorien"
+
+#. type: Plain text, ID:473
+#: Line:540
+msgid "Subcategories under <t.location/>"
+msgstr "Unterkategorien unter <n.location/>"
+
+#. type: Plain text, ID:474
+#: Line:541
+msgid "Subcategory"
+msgstr "Unterkategorie"
+
+#. type: Plain text, ID:475
+#: Line:542
+msgid "Sub-Forum"
+msgstr "Unterforum"
+
+#. type: Plain text, ID:476
+#: Line:543
+msgid "Sub-Forums"
+msgstr "Unterforen"
+
+#. type: Plain text, ID:477
+#: Line:544
+msgid "Sub-Forums & Topics"
+msgstr "Unterforen & Themen"
+
+#. type: Plain text, ID:478
+#: Line:545
+msgid "Subject"
+msgstr "Betreff"
+
+#. type: Plain text, ID:479
+#: Line:546
+msgid "Subscribe"
+msgstr "Abonniere"
+
+#. type: Plain text, ID:480
+#: Line:547
+msgid "subscriber"
+msgstr "Abonnent"
+
+#. type: Plain text, ID:481
+#: Line:548
+msgid "subscribers"
+msgstr "Abonnenten"
+
+#. type: Plain text, ID:482
+#: Line:549
+msgid "Subscribe to <t.location/>"
+msgstr "Abonniere <n.location/>"
+
+#. type: Plain text, ID:483
+#: Line:550
+msgid "Subscribe via email"
+msgstr "Abonniere per eMail"
+
+#. type: Plain text, ID:484
+#: Line:551
+msgid "Subscription Confirmation"
+msgstr "Bestätigung des Abonnements"
+
+#. type: Plain text, ID:485
+#: Line:552
+msgid "Subscription Confirmed"
+msgstr "Abonnement Bestätigt"
+
+#. type: Plain text, ID:486
+#: Line:553
+msgid "Subscription Format"
+msgstr "Format des Abonnements"
+
+#. type: Plain text, ID:487
+#: Line:554
+msgid "Subscription Removed"
+msgstr "Abonnement Entfernt"
+
+#. type: Plain text, ID:488
+#: Line:555
+msgid "Subscription Results"
+msgstr "Ergebnisse des Abonnements"
+
+#. type: Plain text, ID:489
+#: Line:556
+msgid "Subscription Type"
+msgstr "Typ des Abonnements"
+
+#. type: Plain text, ID:490
+#: Line:557
+msgid "Success: a confirmation email has been sent to you."
+msgstr "Eine persönliche Bestätigungs-eMail wurde erfolgreich versandt."
+
+#. type: Plain text, ID:491
+#: Line:558
+msgid "Success"
+msgstr "Gelungen"
+
+#. type: Plain text, ID:492
+#: Line:559
+msgid "Take Action"
+msgstr "Aktivität Durchführen"
+
+#. type: Plain text, ID:493
+#: Line:560
+msgid "<t.app/> Registration"
+msgstr "Anmeldung bei <n.app/>"
+
+#. type: Plain text, ID:494
+#: Line:561
+msgid "<t.author/> has been successfully banned."
+msgstr "<n.author/> wurde erfolgreich verbannt."
+
+#. type: Plain text, ID:495
+#: Line:562
+msgid "<t.author/> has been successfully unbanned."
+msgstr "<n.author/> wurde erfolgreich aus der Verbannung befreit."
+
+#. type: Plain text, ID:496
+#: Line:563
+msgid "Tell me more & show examples"
+msgstr "Weitere Informationen & Beispiele"
+
+#. type: Plain text, ID:497
+#: Line:564
+msgid "Thank you for registering with <t.app/>!"
+msgstr "Vielen Dank für die Anmeldung bei <n.app/>!"
+
+#. type: Plain text, ID:498
+#: Line:565
+msgid "Thank You"
+msgstr "Vielen Dank"
+
+#. type: Plain text, ID:499
+#: Line:566
+msgid "The author has deleted this message."
+msgstr "Der Autor hat diese Nachricht entfernt."
+
+#. type: Plain text, ID:500
+#: Line:567
+msgid "The code in the URL is not valid."
+msgstr "Der URL-Code ist ungültig."
+
+#. type: Plain text, ID:501
+#: Line:568
+msgid "the exact phrase:"
+msgstr "die genaue Formulierung:"
+
+#. type: Plain text, ID:502
+#: Line:569
+msgid ""
+"The mailing list may require your subscription before accepting your post. "
+"Please note that being registered with Nabble does NOT automatically "
+"subscribe you to this mailing list. If you haven't subscribed yet, please do "
+"it now. If you aren't sure or don't remember, just subscribe again because "
+"there is no harm."
+msgstr ""
+"Es wird eine persönliche Registrierung bei der Mailing-Liste notwendig sein, "
+"bevor eine Nachrichtenannahme erfolgen kann. Bitte beachten, dass eine "
+"Registrierung bei Nabble mit KEINER automatischen Registrierung bei dieser "
+"Mailing-Liste verbunden ist. Ist die Registrierung noch nicht erfolgt, "
+"sollte sie jetzt erfolgen. Besteht Unsicherheit bzgl des persönlichen "
+"Registrierungsstatus, so wird eine erneute Registrierung empfohlen."
+
+#. type: Plain text, ID:503
+#: Line:570
+msgid "The Nabble team"
+msgstr "Das Nabble-Team"
+
+#. type: Plain text, ID:504
+#: Line:571
+msgid "The name of the group is not valid."
+msgstr "Der Name der Gruppe ist ungültig."
+
+#. type: Plain text, ID:505
+#: Line:572
+msgid "The new parent cannot be the post itself."
+msgstr "Der übergeordnete Beitrag kann nicht selbst der Beitrag sein."
+
+#. type: Plain text, ID:506
+#: Line:573
+msgid "The password fields don't match."
+msgstr "Die Passwort-Felder stimmen nicht überein."
+
+#. type: Plain text, ID:507
+#: Line:574
+msgid ""
+"There is an unregistered user account associated with the email address <t."
+"email/>."
+msgstr ""
+"Ein nicht-registriertes Nutzerkonto ist mit der eMail-Adresse <n.email/> "
+"verbunden."
+
+#. type: Plain text, ID:508
+#: Line:575
+msgid "The subject is required."
+msgstr "Ein Betreff ist erforderlich."
+
+#. type: Plain text, ID:509
+#: Line:576
+msgid ""
+"The user will receive a copy of all delete posts by email, so that he/she "
+"can have a chance to save them."
+msgstr ""
+"Der Nutzer wird eine Kopie aller gelöschten Beiträge erhalten; so hat er/sie "
+"die Möglichkeit diese für sich zu sichern."
+
+#. type: Plain text, ID:510
+#: Line:577
+msgid "The validation code did not match the picture."
+msgstr "Der Überprüfungscode passt nicht zum Bild."
+
+#. type: Plain text, ID:511
+#: Line:578
+msgid ""
+"This branch is too big and some posts were omitted. Use the other views to "
+"read all posts."
+msgstr ""
+"Dieser Zweig ist zu groß und so wurden einige Beiträge aus der Ansicht "
+"entfernt. Bitte die anderen Ansichten verwenden, um alle Beiträge lesen zu "
+"können."
+
+#. type: Plain text, ID:512
+#: Line:579
+msgid "This email is already subscribed."
+msgstr "Diese eMail ist bereits vergeben und registriert."
+
+#. type: Plain text, ID:513
+#: Line:580
+msgid "This forum is an archive for the mailing list"
+msgstr "Dieses Forum ist ein Archiv für die Mailing-Liste"
+
+#. type: Plain text, ID:514
+#: Line:581
+msgid ""
+"This forum is an archive/gateway which will forward your post to the <b><n."
+"mailing_list_address/></b> mailing list."
+msgstr ""
+"Dieses Forum ist ein Archiv bzw. ein Portal zur Weiterleitung der "
+"entsprechenden Nachrichten nach <b><n.mailing_list_address/></b>."
+
+#. type: Plain text, ID:515
+#: Line:582
+msgid "This includes subcategories, posts, images, files and everything else."
+msgstr ""
+"Dies schließt Unterkategorien, Beiträge, Bilder, Dateien und weiteres ein."
+
+#. type: Plain text, ID:516
+#: Line:583
+msgid "This is a mailing list archive"
+msgstr "Dies ist ein Archiv für eine Mailing-Liste"
+
+#. type: Plain text, ID:517
+#: Line:584
+msgid ""
+"This is an automatic email sent by Nabble to confirm the creation of your "
+"new <t.app/>. If you didn't create the <t.app/> mentioned above, please "
+"contact us through the Nabble Support forum."
+msgstr ""
+"Dies ist eine automatisch von Nabble versendete eMail, um das erfolgreiche "
+"Anlegen von <n.app/> zu bestätigen. Falls <n.app/> fälschlicherweise "
+"angelegt wurde, wird darum gebeten, Nabble über das Nabble Support Forum zu "
+"kontaktieren."
+
+#. type: Plain text, ID:518
+#: Line:585
+msgid "This list accepts only plain-text emails"
+msgstr "Diese Liste akzeptiert nur eMails in einfachem Textformat"
+
+#. type: Plain text, ID:519
+#: Line:586
+msgid ""
+"This list shows registered, unregistered and banned users. Anonymous users "
+"are not listed because they don't have an email and thus cannot be part of a "
+"group."
+msgstr ""
+"Diese Liste zeigt registrierte, nicht-registrierte und verbannte Nutzer. "
+"Anonyme Nutzer sind nicht aufgeführt, da sie ohne registrierte eMail-Adresse "
+"zu keiner Gruppe gehören können."
+
+#. type: Plain text, ID:520
+#: Line:587
+msgid ""
+"This message will be sent from <b><t.from/></b> to the <b><t.to/></b> "
+"mailing list."
+msgstr ""
+"Diese Nachricht wird von <b><n.from/></b> zur Mailing-Liste <b><n.to/></b> "
+"gesendet."
+
+#. type: Plain text, ID:521
+#: Line:588
+msgid "This post has NOT been accepted by the mailing list yet."
+msgstr ""
+"Dieser Beitrag wurde bisher noch NICHT von der Mailing-Liste akzeptiert."
+
+#. type: Plain text, ID:522
+#: Line:589
+msgid "This post was updated on <t.date/>."
+msgstr "Dieser Beitrag wurde am <n.date/> aktualisiert."
+
+#. type: Plain text, ID:523
+#: Line:590
+msgid "This topic has been locked."
+msgstr "Dieses Thema wurde gesperrt."
+
+#. type: Plain text, ID:524
+#: Line:591
+msgid "This topic has been pinned."
+msgstr "Dieses Thema wurde befestigt."
+
+#. type: Plain text, ID:525
+#: Line:592
+msgid "This topic has been pinned in <t.location/>."
+msgstr "Dieses Thema wurde in <n.location/> befestigt."
+
+#. type: Plain text, ID:526
+#: Line:593
+msgid "This topic has been unlocked."
+msgstr "Dieses Thema wurde entsperrt."
+
+#. type: Plain text, ID:527
+#: Line:594
+msgid "This topic has been unpinned."
+msgstr "Dieses Thema wurde losgelöst."
+
+#. type: Plain text, ID:528
+#: Line:595
+msgid "This topic has unread posts"
+msgstr "Dieses Thema enthält ungelesene Beiträge"
+
+#. type: Plain text, ID:529
+#: Line:596
+msgid "This topic is assigned to you at priority <t.priority/>"
+msgstr ""
+"Dieses Thema wurde persönlich mit der Priorität <n.priority/> zugewiesen."
+
+#. type: Plain text, ID:530
+#: Line:597
+msgid ""
+"This user doesn't have permission to view this application (add him/her to a "
+"group that allows this and try again)"
+msgstr ""
+"Dieser Nutzer ist nicht berechtigt, diese Applikation zu sehen (vor einem "
+"erfolgrreichen Zugriffsversuch ist eine Zuweisung zu einer entsprechenden "
+"Gruppe notwendig)"
+
+#. type: Plain text, ID:531
+#: Line:598
+msgid "This user name is already in use."
+msgstr "Dieser Nutzername wird bereits verwendet."
+
+#. type: Plain text, ID:532
+#: Line:599
+msgid "Threaded"
+msgstr "Gesprächsfaden"
+
+#. type: Plain text, ID:533
+#: Line:600
+msgid "Threaded View"
+msgstr "Gesprächsfaden-Ansicht"
+
+#. type: Plain text, ID:534
+#: Line:601
+msgid "Time"
+msgstr "Zeit"
+
+#. type: Plain text, ID:535
+#: Line:602
+msgid ""
+"TIP: If your archive is subscribed to the mailing list and it is still not "
+"working, you may try ignoring the X-No-Archive header."
+msgstr ""
+"TIPP: Falls das Archiv bei der Mailing-Liste registriert ist, aber trotzdem "
+"nicht funktioniert, könnte versucht werden, den X-No-Archive Kopf zu "
+"ignorieren."
+
+#. type: Plain text, ID:536
+#: Line:603
+msgid "Tips"
+msgstr "Tipps"
+
+#. type: Plain text, ID:537
+#: Line:604
+msgid "<t.name/> requested authorization to join the <t.location/>:"
+msgstr ""
+"<n.name/> beantragt eine entsprechende Autorisierung, um <t.location/> "
+"beizutreten:"
+
+#. type: Plain text, ID:538
+#: Line:605
+msgid "<t.number/> Credits"
+msgstr "<n.number/> Kredit-Punkte"
+
+#. type: Plain text, ID:539
+#: Line:606
+msgid "<t.number/> page views without ads."
+msgstr "<n.number/> Seitenaufrufe ohne Werbung."
+
+#. type: Plain text, ID:540
+#: Line:607
+msgid ""
+"To accept this request, you should add this user to at least one group that "
+"has access to this area:"
+msgstr ""
+"Um diese Anfrage zu akzeptieren, sollte dieser Nutzer zu mindestens einer "
+"Gruppe hinzugefügt werden, die Zugriff auf diesen Bereich hat:"
+
+#. type: Plain text, ID:541
+#: Line:608
+msgid ""
+"To add this <t.app/> to your website, copy and paste the following code on "
+"your html page:"
+msgstr ""
+"Um <n.app/> einer Website hinzuzufügen, muss der folgende Code kopiert und "
+"in die entsprechende HTML-Seite eingefügt werden:"
+
+#. type: Plain text, ID:542
+#: Line:609
+msgid "To confirm your subscription, click on the link below:"
+msgstr ""
+"Um das Abonnement zu bestätigen, ist ein Click auf untenstehenden Link "
+"notwendig:"
+
+#. type: Plain text, ID:543
+#: Line:610
+msgid "topic"
+msgstr "Thema"
+
+#. type: Plain text, ID:544
+#: Line:611
+msgid "Topics and replies"
+msgstr "Themen und Antworten"
+
+#. type: Plain text, ID:545
+#: Line:612
+msgid "topics"
+msgstr "Theemn"
+
+#. type: Plain text, ID:546
+#: Line:613
+msgid "Topics"
+msgstr "Themen"
+
+#. type: Plain text, ID:547
+#: Line:614
+msgid "Topics only"
+msgstr "Nur Themen"
+
+#. type: Plain text, ID:548
+#: Line:615
+msgid "Topics View"
+msgstr "Themenansicht"
+
+#. type: Plain text, ID:549
+#: Line:616
+msgid ""
+"To prevent spam, the email address to use when posting by email is "
+"<b>unique</b> for each user."
+msgstr ""
+"Um Spam zu verhindern, werden für Beiträge nur eMails von <b>eindeutig "
+"registrierten</b> Nutzer-eMail-Adressen zugelassen."
+
+#. type: Plain text, ID:550
+#: Line:617
+msgid "To remove a group, empty the text area below and save the changes."
+msgstr ""
+"Um eine Gruppe zu löschen, muss das Textfeld komplett gelöscht werden. "
+"Anschließend speichern."
+
+#. type: Plain text, ID:551
+#: Line:618
+msgid ""
+"To see which email address you should use to post, please <n.login_link."
+">login</n.login_link.> or <n.register_link.>register</n.register_link.>."
+msgstr ""
+"Um angezeigt zu bekommen, welche eMail-Adresse für Beiträge genutzt werden "
+"können, ist ein <n.login_link.>Anmeldung</n.login_link.> oder eine <n."
+"register_link.>Registrierung</n.register_link.> notwendig."
+
+#. type: Plain text, ID:552
+#: Line:619
+msgid "To start a new topic under <t.location/>, email <t.p2/>"
+msgstr ""
+"Um ein neues Thema unter <n.location/> zu beginnen, ist eine eMail an <n.p2/"
+"> zu versenden"
+
+#. type: Plain text, ID:553
+#: Line:620
+msgid "Total"
+msgstr "Gesamt"
+
+#. type: Plain text, ID:554
+#: Line:621
+msgid "To unsubscribe from <t.location/>"
+msgstr "Um das Abonnement von <n.location/> aufzuheben"
+
+#. type: Plain text, ID:555
+#: Line:622
+msgid "<t.owner_name/> is inviting you to subscribe to <t.location/>:"
+msgstr ""
+"dies ist eine Einladung von <n.owner_name/>, <n.location/> zu abonnieren:"
+
+#. type: Plain text, ID:556
+#: Line:623
+msgid "Turn off highlighting"
+msgstr "Hervorhebungen ausschalten"
+
+#. type: Plain text, ID:557
+#: Line:624
+msgid "<t.username/> created a new subcategory"
+msgstr "<n.username/> hat eine neue Unterkategorie erzeugt"
+
+#. type: Plain text, ID:558
+#: Line:625
+msgid "Unable to Post"
+msgstr "Beitragen nicht Möglich"
+
+#. type: Plain text, ID:559
+#: Line:626
+msgid "Unassigned"
+msgstr "Nicht Zugewiesen"
+
+#. type: Plain text, ID:560
+#: Line:627
+msgid "Unauthorized"
+msgstr "Nicht Autorisiert"
+
+#. type: Plain text, ID:561
+#: Line:628
+msgid "Unban this user"
+msgstr "Verbannung für Nutzer auflösen"
+
+#. type: Plain text, ID:562
+#: Line:629
+msgid "Unban User"
+msgstr "Verbannung Lösen"
+
+#. type: Plain text, ID:563
+#: Line:630
+msgid "Unknown or Other"
+msgstr "Unbekannt oder Sonstiges"
+
+#. type: Plain text, ID:564
+#: Line:631
+msgid "Unlock topic"
+msgstr "Thema entsperren"
+
+#. type: Plain text, ID:565
+#: Line:632
+msgid "Unpin topic"
+msgstr "Thema loslösen"
+
+#. type: Plain text, ID:566
+#: Line:633
+msgid "Unregistered / Deactivated"
+msgstr "Nicht-Registriert / Deaktiviert"
+
+#. type: Plain text, ID:567
+#: Line:634
+msgid "Unregistered"
+msgstr "Nicht-Registriert"
+
+#. type: Plain text, ID:568
+#: Line:635
+msgid "Unregistered User"
+msgstr "Nicht-Registrierter Nutzer"
+
+#. type: Plain text, ID:569
+#: Line:636
+msgid "Unsubscribe"
+msgstr "Abonnement Lösen"
+
+#. type: Plain text, ID:570
+#: Line:637
+msgid "Upload a file"
+msgstr "Eine Datei hochladen"
+
+#. type: Plain text, ID:571
+#: Line:638
+msgid "User email:"
+msgstr "Nutzer eMail:"
+
+#. type: Plain text, ID:572
+#: Line:639
+msgid "user"
+msgstr "Nutzer"
+
+#. type: Plain text, ID:573
+#: Line:640
+msgid "User is online"
+msgstr "Nutzer ist online"
+
+#. type: Plain text, ID:574
+#: Line:641
+msgid "User Name"
+msgstr "Nutzername"
+
+#. type: Plain text, ID:575
+#: Line:642
+msgid "User requested authorization to join <t.location/>"
+msgstr "Ein Nutzer beantragt Berechtigung, um <n.location/> beizutreten"
+
+#. type: Plain text, ID:576
+#: Line:643
+msgid "users"
+msgstr "Nutzer"
+
+#. type: Plain text, ID:577
+#: Line:644
+msgid "Users"
+msgstr "Nutzer"
+
+#. type: Plain text, ID:578
+#: Line:645
+msgid "Users & Groups"
+msgstr "Nutzer & Gruppen"
+
+#. type: Plain text, ID:579
+#: Line:646
+msgid "Users that completed the registration process"
+msgstr "Nutzer, die den Registrierungsvorgang abgeschlossen haben"
+
+#. type: Plain text, ID:580
+#: Line:647
+msgid "Use tags like <t.example1/> or <t.example2/> to create sub-headers."
+msgstr ""
+"Tags wie <n.example1/> oder <n.example2/> sind zur Erstellung von Unter-"
+"Überschriften zu nutzen."
+
+#. type: Plain text, ID:581
+#: Line:648
+msgid "Use the options below to precisely specify your search criteria."
+msgstr ""
+"Untenstehende Einstellungen sind zu nutzen, um die Suchkriterien klar zu "
+"definieren."
+
+#. type: Plain text, ID:582
+#: Line:649
+msgid "Use <t.tag_names/> to embed widgets from other websites."
+msgstr ""
+"<n.tag_names/> sind zu nutzen, um Widgets anderer Websites einzubetten."
+
+#. type: Plain text, ID:583
+#: Line:650
+msgid "View all messages under this sub-forum"
+msgstr "Alle Nachrichten dieses Unterforums anzeigen"
+
+#. type: Plain text, ID:584
+#: Line:651
+msgid "view"
+msgstr "Anzeigen"
+
+#. type: Plain text, ID:585
+#: Line:652
+msgid "View mailing list website"
+msgstr "Website der Mailing-List anzeigen"
+
+#. type: Plain text, ID:586
+#: Line:653
+msgid "View message"
+msgstr "Nachricht anzeigen"
+
+#. type: Plain text, ID:587
+#: Line:654
+msgid "View more"
+msgstr "Mehr anzeigen"
+
+#. type: Plain text, ID:588
+#: Line:655
+msgid "views"
+msgstr "Darstellungen"
+
+#. type: Plain text, ID:589
+#: Line:656
+msgid "Views"
+msgstr "Darstellungen"
+
+#. type: Plain text, ID:590
+#: Line:657
+msgid "Violent or repulsive content"
+msgstr "Gewaltverherrlichender oder abstoßender Inhalt"
+
+#. type: Plain text, ID:591
+#: Line:658
+msgid "Visit <t.app/> at:"
+msgstr "Besuche <n.app/> hier:"
+
+#. type: Plain text, ID:592
+#: Line:659
+msgid "visit <t.url/>"
+msgstr "besuche <n.url/>"
+
+#. type: Plain text, ID:593
+#: Line:660
+msgid ""
+"We have prepared a page with <n.unsubscription_instructions_link.>some "
+"instructions on how to unsubscribe this archive</n."
+"unsubscription_instructions_link.>."
+msgstr ""
+"Wir haben eine Seite vorbereitet, die <n.unsubscription_instructions_link."
+">einige Anleitungen bzgl. der Abmeldung von diesem Archiv</n."
+"unsubscription_instructions_link.> enthält."
+
+#. type: Plain text, ID:594
+#: Line:661
+msgid "We will review your report soon."
+msgstr "Wir werden die Meldung in Kürze überprüfen."
+
+#. type: Plain text, ID:595
+#: Line:662
+msgid "Which groups allow members to be listed"
+msgstr "Welche Gruppen gestatten eine Auflistung der Mitglieder"
+
+#. type: Plain text, ID:596
+#: Line:663
+msgid "Who can ban/unban users"
+msgstr "Wer ist berechtigt, Nutzer zu verbannen bzw. die Verbannung zu lösen"
+
+#. type: Plain text, ID:597
+#: Line:664
+msgid "Who can be assigned topics (in workgroups only)"
+msgstr "Wem dürfen Themen zugeordnet werden (nur in Workgroups)"
+
+#. type: Plain text, ID:598
+#: Line:665
+msgid "Who can change the date and time of messages"
+msgstr "Wer ist berechtigt, Datum und Uhrzeit von Nachrichten verändern"
+
+#. type: Plain text, ID:599
+#: Line:666
+msgid "Who can create new topics under this application"
+msgstr "Wer ist berechtigt, neue Themen in dieser Applikation einzustellen"
+
+#. type: Plain text, ID:600
+#: Line:667
+msgid "Who can create sub applications (e.g., sub-forums, subcategories, etc.)"
+msgstr ""
+"Wer ist berechtigt, Unter-Applikationen zu erzeugen (z.B. Unterforen, "
+"Unterkategorien, usw.)"
+
+#. type: Plain text, ID:601
+#: Line:668
+msgid ""
+"Who can edit any content, both applications and posts. Note: Please only use "
+"this feature in extreme circumstances. Most users will not like having their "
+"posts edited by someone else."
+msgstr ""
+"Wer ist berechtigt, jeglichen Inhalt sowohl in Applikationen als auch in "
+"Beiträgen zu editieren. Anmerkung: Bitte diese Funktion nur bei Notfällen "
+"nutzen. Die meisten Nutzer sind über eine Veränderung ihrer Beiträge durch "
+"andere Personen nicht erfreut."
+
+#. type: Plain text, ID:602
+#: Line:669
+msgid "Who can edit applications (e.g., change name, description, etc.)"
+msgstr ""
+"Wer ist berechtigt, Applikationen zu modifizieren (z.B. Bezeichnung, "
+"Beschreibung, usw.)"
+
+#. type: Plain text, ID:603
+#: Line:670
+msgid "Who can lock/unlock topics in this application"
+msgstr ""
+"Wer ist berechtigt, Themen in dieser Applikation zu sperren bzw. zu "
+"entsperren"
+
+#. type: Plain text, ID:604
+#: Line:671
+msgid "Who can manage subscribers of this application"
+msgstr "Wer ist berechtigt, Abonnenten dieser Applikation zu verwalten"
+
+#. type: Plain text, ID:605
+#: Line:672
+msgid ""
+"Who can move messages under other destinations (e.g., under other topics or "
+"sub-forums)"
+msgstr ""
+"Wer ist berechtigt, Nachrichten zu verschieben (z.B. unter andere Themen "
+"oder in andere Unterforen)"
+
+#. type: Plain text, ID:606
+#: Line:673
+msgid "Who can pin/unpin topics in this application"
+msgstr ""
+"Wei ist berechtigt, Themen in dieser Applikation zu befestigen / zu lösen"
+
+#. type: Plain text, ID:607
+#: Line:674
+msgid ""
+"Who can post any content without restriction (including javascript code, &lt;"
+"object&gt; and &lt;style&gt; tags, etc.). <b>Security Warning</b>: Allow "
+"this option only for users that you really trust."
+msgstr ""
+"Wer ist berechtigt, jeglichen Inhalt ohne Beschränkungen zu verfassen (incl. "
+"JavaScript Code, Tags für &lt;object&gt; und &lt;style&gt;, etc.). "
+"<b>Sicherheitswarnung</b>: Diese Option sollte nur Nutzern / Gruppen gewährt "
+"werden, die volles Vertrauen genießen."
+
+#. type: Plain text, ID:608
+#: Line:675
+msgid "Who can reply to messages posted under this application"
+msgstr ""
+"Wer ist berechtigt, auf Nachrichten zu antworten, die in dieser Applikation "
+"verfasst wurden"
+
+#. type: Plain text, ID:609
+#: Line:676
+msgid "Who can view this application and its contents"
+msgstr "Wer ist berechtigt, diese Applikation und ihre Inhalte zu sehen"
+
+#. type: Plain text, ID:610
+#: Line:677
+msgid ""
+"With your subscription, updates will be sent directly to your email address "
+"and you can reply to them to participate in the discussion. Your "
+"subscription works the same as a mailing list."
+msgstr ""
+"Dieses Abonnement sorgt dafür, dass Aktualisierungen per eMail an den "
+"Abonnenten versendet werden. Es ist daraufhin möglich, direkt über den eMail-"
+"Client eine Antwort zu verfassen, die wie ein normaler Beitrag im Forum "
+"erscheint. Die Wirkungsweise ist die gleiche wie bei einer Mailing-Liste."
+
+#. type: Plain text, ID:611
+#: Line:678
+msgid "Write Your First Headline"
+msgstr "Den Ersten Betreff Schreiben"
+
+#. type: Plain text, ID:612
+#: Line:679
+msgid "Write Your First Post"
+msgstr "Den Ersten Beitrag Schreiben"
+
+#. type: Plain text, ID:613
+#: Line:680
+msgid "Yes, delete <t.location/> forever"
+msgstr "Ja, bitte <n.location/> unwiederbringlich löschen"
+
+#. type: Plain text, ID:614
+#: Line:681
+msgid "Yes, unsubscribe now"
+msgstr "Ja, das Abonnement lösen"
+
+#. type: Plain text, ID:615
+#: Line:682
+msgid "You are already subscribed to <t.location/>."
+msgstr "Ein Abonnement für <n.location/> besteht bereits."
+
+#. type: Plain text, ID:616
+#: Line:683
+msgid "You are not subscribed to <t.location/>."
+msgstr "Ein Abonnement für <n.location/> besteht nicht."
+
+#. type: Plain text, ID:617
+#: Line:684
+msgid ""
+"You can also <n.manage_banned_users_link.>manage banned users</n."
+"manage_banned_users_link.> in <t.location/>."
+msgstr ""
+"Die <n.manage_banned_users_link.>verbannten Nutzer</n."
+"manage_banned_users_link.> können auch über <n.location/> verwaltet werden."
+
+#. type: Plain text, ID:618
+#: Line:685
+msgid ""
+"You can also <n.root_node.change_permissions_link.>change the permissions</n."
+"root_node.change_permissions_link.> of the groups below."
+msgstr ""
+"Für die untenstehenden Gruppen können die <n.root_node."
+"change_permissions_link.>Berechtigungen verändert</n.root_node."
+"change_permissions_link.> werden."
+
+#. type: Plain text, ID:619
+#: Line:686
+msgid ""
+"You can also promote your <t.app/> by sending the link to your friends, "
+"embedding it onto your website or talking about it on other forums."
+msgstr ""
+"Eine Verbreitung von <n.app/> kann erfolgen, indem Freunden / Bekannten "
+"dieser Link zukommt, durch Einbettung des Links in Websites oder durch "
+"Verbreitung in anderen Foren."
+
+#. type: Plain text, ID:620
+#: Line:687
+msgid ""
+"You cannot move this post to that destination because the new parent doesn't "
+"allow anonymous users."
+msgstr ""
+"Das Verschieben dieses Beitrags an die gewünschte Position ist nicht "
+"möglich, denn dort ist die Beteiligung anonymer Nutzer nicht gestattet."
+
+#. type: Plain text, ID:621
+#: Line:688
+msgid "You Cannot Post Here"
+msgstr "Ein Verfassen Ist Hier Nicht Gestattet"
+
+#. type: Plain text, ID:622
+#: Line:689
+msgid "(you can reply by email)"
+msgstr "(antworten per eMail möglich)"
+
+#. type: Plain text, ID:623
+#: Line:690
+msgid "You can't move the post to anywhere."
+msgstr "Eine Verschiebung des Beitrags ist nirgendwo hin möglich."
+
+#. type: Plain text, ID:624
+#: Line:691
+msgid "You can't post a message here, but you can post in other places."
+msgstr ""
+"Das Verfassen einer Nachricht ist hier nicht möglich. Dafür aber an anderer "
+"Stelle."
+
+#. type: Plain text, ID:625
+#: Line:692
+msgid ""
+"You can try <n.register_link.>registering again</n.register_link.> or "
+"contact <n.support_link/>."
+msgstr ""
+"Es besteht die Möglichkeit einer <n.register_link.>wiederholten "
+"Registrierung</n.register_link.> oder den Kontakt zu <n.support_link/>."
+
+#. type: Plain text, ID:626
+#: Line:693
+msgid "You can use the form below to send a request to the administrators."
+msgstr ""
+"Das untenstehende Formular kann genutzt werden, um eine Anfrage an den "
+"Administrator zu senden. "
+
+#. type: Plain text, ID:627
+#: Line:694
+msgid "You have already been registered."
+msgstr "Eine Registrierung ist bereits abgeschlossen."
+
+#. type: Plain text, ID:628
+#: Line:695
+msgid ""
+"You have been invited to subscribe to <t.location/>, which is available at:"
+msgstr ""
+"Es besteht eine Einladung, <n.location/> zu abonnieren. Dies ist hier "
+"möglich:"
+
+#. type: Plain text, ID:629
+#: Line:696
+msgid "You have been registered to <t.subject/>."
+msgstr "Die Registrierung für <n.subject/> ist erfolgt."
+
+#. type: Plain text, ID:630
+#: Line:697
+msgid "You have been unsubscribed from <t.location/>"
+msgstr "Es ist eine Abmeldung von <n.location/> erfolgt"
+
+#. type: Plain text, ID:631
+#: Line:698
+msgid "You have made too many posts in a short time. Please try again later."
+msgstr ""
+"Es sind zu viele Beiträge in zu kurzer Zeit erfasst worden. Der Versuch zu "
+"einem späteren Zeitpunkt wird empfohlen."
+
+#. type: Plain text, ID:632
+#: Line:699
+msgid "You logged out"
+msgstr "Die Abmeldung ist erfolgt"
+
+#. type: Plain text, ID:633
+#: Line:700
+msgid ""
+"You may need to <n.mailing_list_options_link.>subscribe to this mailing "
+"list</n.mailing_list_options_link.> for your message to be accepted."
+msgstr ""
+"Damit die Nachricht akzeptiert werden kann, ist ein <n."
+"mailing_list_options_link.>Abonnement dieser Mailing-Liste</n."
+"mailing_list_options_link.> erforderlich."
+
+#. type: Plain text, ID:634
+#: Line:701
+msgid ""
+"You may <n.page_node.unauthorized_link.>request permission to post</n."
+"page_node.unauthorized_link.> here or contact <n.root_node.owner."
+"send_email_link.><n.root_node.owner.name/></n.root_node.owner."
+"send_email_link.> if you have questions."
+msgstr ""
+"Hier kann ein <n.page_node.unauthorized_link.>Antrag zur Berechtigung zum "
+"Verfassen von Beiträgen</n.page_node.unauthorized_link.> erfolgen oder ein "
+"Kontakt zu <n.root_node.owner.send_email_link.><n.root_node.owner.name/></n."
+"root_node.owner.send_email_link.> falls Fragen bestehen."
+
+#. type: Plain text, ID:635
+#: Line:702
+msgid "You must agree to the Terms of Use."
+msgstr "Ein Akzeptieren der Nutzungsbedingung ist Voraussetzung."
+
+#. type: Plain text, ID:636
+#: Line:703
+msgid "You must enter a valid email address for this mailing list."
+msgstr ""
+"Zur Nutzung dieser Mailing-Liste wird die Angabe einer gültigen eMail-"
+"Adresse vorausgesetzt."
+
+#. type: Plain text, ID:637
+#: Line:704
+msgid "You must enter a valid website URL for this mailing list."
+msgstr ""
+"Zur Nutzung dieser Mailing-Liste wird die Angabe einer gültigen URL "
+"vorausgesetzt."
+
+#. type: Plain text, ID:638
+#: Line:705
+msgid "You must fill in all fields below."
+msgstr "Das Ausfüllen aller untenstehenden Felder ist erforderlich."
+
+#. type: Plain text, ID:639
+#: Line:706
+msgid "You must login to view this page."
+msgstr "Zur Ansicht dieser Seite ist eine Anmeldung notwendig."
+
+#. type: Plain text, ID:640
+#: Line:707
+msgid "You must login to view <t.subject/>."
+msgstr "Zur Ansicht von <t.subject/> ist eine Anmeldung notwendig."
+
+#. type: Plain text, ID:641
+#: Line:708
+msgid "You must login to your account."
+msgstr "Eine Anmeldung im mit persönlichen Nutzerdaten ist erforderlich."
+
+#. type: Plain text, ID:642
+#: Line:709
+msgid "You must provide a user name."
+msgstr "Die Eingabe eines Nutzernamens ist erforderlich."
+
+#. type: Plain text, ID:643
+#: Line:710
+msgid "You're not a subscriber"
+msgstr "Abonnement ist nicht eingerichtet"
+
+#. type: Plain text, ID:644
+#: Line:711
+msgid "Your Name"
+msgstr "Nutzername"
+
+#. type: Plain text, ID:645
+#: Line:712
+msgid "Your request has been successfully sent."
+msgstr "Die Anfrage wurde erfolgreich versendet."
+
+#. type: Plain text, ID:646
+#: Line:713
+msgid "Your subscription has been successfully saved."
+msgstr "Das Abonnement wurde erfolgreich registriert."
+
+#. type: Plain text, ID:647
+#: Line:714
+msgid ""
+"Your subscription to <t.location/> has been removed. If this was a mistake, "
+"you can re-subscribe by following the link below:"
+msgstr ""
+"Das Abonnement von <n.location/> wurde entfernt. Falls dies ein Versehen "
+"gewesen sein sollte, ist ein Wieder-Abonnieren über den folgenden Link "
+"möglich:"
+
+#. type: Plain text, ID:648
+#: Line:715
+msgid "Your subscription to <t.location/> has been successfully removed."
+msgstr "Das Abonnement von <n.location/> wurde entfernt."
+
+#. type: Plain text, ID:649
+#: Line:716
+msgid "Your <t.app/> has been successfully created."
+msgstr "<n.app/> wurde erfolgreich erstellt."
+
+#. type: Plain text, ID:650
+#: Line:717
+msgid ""
+"You will need authorization to post new topics in <t.location/>, so in "
+"addition to registering you will have to be approved by the administrators."
+msgstr ""
+"Zum Verfassen neuer Themen in <n.location/> ist eine entsprechende "
+"Autorisierung notwendig. Zusätzlich zur Registrierung muss ein Administrator "
+"die entsprechende Berechtigung freischalten."
+
+#. type: Plain text, ID:651
+#: Line:718
+msgid "You will receive an email for each new message posted under this topic."
+msgstr ""
+"Bei jeder neuen Nachricht zu diesem Thema wird automatisch eine eMail an die "
+"hinterlegte eMail-Adresse erfolgen."
+
+#. type: Plain text, ID:652
+#: Line:719
+msgid "You will receive an email with a link to activate your account."
+msgstr ""
+"Eine eMail ist unterwegs. Hierin befindet sich ein Link, der das Konto "
+"aktiviert."
+
+# Newline
+# Comment: NEW
+#. type: Plain text, ID:653
+#: Line:722
+msgid "Your subscription"
+msgstr "Das Abonnement"
+
+#. type: Plain text, ID:654
+#: Line:723
+msgid "edit"
+msgstr "bearbeiten"
+
+#. type: Plain text, ID:655
+#: Line:724
+msgid "Remove ads"
+msgstr "Werbung ausblenden"
+
+#. type: Plain text, ID:656
+#: Line:725
+msgid "View profile of <t.author/>"
+msgstr "Profil von <n.author/> anzeigen"
+
+#. type: Plain text, ID:657
+#: Line:726
+msgid "Description"
+msgstr "Beschreibung"
+
+#. type: Plain text, ID:658
+#: Line:727
+msgid "Videos from Youtube, Vimeo and LiveLeak."
+msgstr "Videos auf Youtube, Vimeo und LiveLeak"
+
+#. type: Plain text, ID:659
+#: Line:728
+msgid "Banned Users in <t.location/>"
+msgstr "Verbannte Nutzer in <n.location/>"
+
+#. type: Plain text, ID:660
+#: Line:729
+msgid "Subject Prefix"
+msgstr "Betreff-Präfix"
+
+# Newline
+# Comment: NEW 2
+#. type: Plain text, ID:661
+#: Line:732
+msgid "Change title and meta tags"
+msgstr "Titel und Meta-Informationen ändern"
+
+#. type: Plain text, ID:662
+#: Line:733
+msgid ""
+"Here you can customize the title and meta tags of the <t.location/> page."
+msgstr ""
+"Hier ist die Anpassung des Titels und der Meta-Informationen von <n.location/"
+"> möglich."
+
+#. type: Plain text, ID:663
+#: Line:734
+msgid ""
+"The meta information below can help you optimize this page for search "
+"engines (e.g., google, yahoo!, etc.)."
+msgstr ""
+"Die untenstehenden Meta-Informationen können dabei unterstützen, diese Seite "
+"bzgl. der Suchmaschinen (z.B. Google, Yahoo!, usw.) zu optimieren."
+
+#. type: Plain text, ID:664
+#: Line:735
+msgid "Use custom values"
+msgstr "Kundenspezifische Werte nutzen"
+
+#. type: Plain text, ID:665
+#: Line:736
+msgid "Page Title"
+msgstr "Seitentitel"
+
+#. type: Plain text, ID:666
+#: Line:737
+msgid "Enter a context-rich title that clearly identifies this page."
+msgstr ""
+"Bitte einen aussagekräftigen Titel eingeben, der die Seite klar "
+"identifiziert."
+
+#. type: Plain text, ID:667
+#: Line:738
+msgid "The title should ideally be less than 70 characters in length."
+msgstr ""
+"Der Titel sollte idealerweise eine Länge von 70 Zeichen nicht überschreiten."
+
+#. type: Plain text, ID:668
+#: Line:739
+msgid "Meta Description"
+msgstr "Meta-Beschreibung"
+
+#. type: Plain text, ID:669
+#: Line:740
+msgid "Enter a brief and concise summary of your page's content."
+msgstr ""
+"Bitte eine kurze und präzise Zusammenfassung des Seiteninhalts eingeben."
+
+#. type: Plain text, ID:670
+#: Line:741
+msgid "Limit your description to 155 characters or 170 characters at most."
+msgstr ""
+"Bitte die Beschreibung auf 155 Zeichen beschränken. Maximal 170 Zeichen."
+
+#. type: Plain text, ID:671
+#: Line:742
+msgid "Mailing List Archive"
+msgstr "Archiv für Mailing-Liste"
+
+#. type: Plain text, ID:672
+#: Line:743
+msgid "Filter: priority <t.priority/>"
+msgstr "Filter: Priorität <n.priority/>"
+
+#. type: Plain text, ID:673
+#: Line:744
+msgid "Filter: assignee <t.author/>"
+msgstr "Filter: Zuordnung <n.author/>"
+
+#. type: Plain text, ID:674
+#: Line:745
+msgid "Use Google Analytics"
+msgstr "Nutzung von Google Analytics"
+
+#. type: Plain text, ID:675
+#: Line:746
+msgid "Analytics Account ID:"
+msgstr "Analytics Konto ID:"
+
+#. type: Plain text, ID:676
+#: Line:747
+msgid "(e.g., UA-12345-0)"
+msgstr "(z.B. UA-12345-0)"
+
+#. type: Plain text, ID:677
+#: Line:748
+msgid "Enter a valid analytics account ID."
+msgstr "Bitte eine gültige Analytics-Konto-ID eingeben."
+
+#. type: Plain text, ID:678
+#: Line:749
+msgid "Here you can use Google Analytics to measure the success of your app."
+msgstr ""
+"Hier kann Google Analytics verwendet werden, um den Erfolg der Applikation "
+"zu bestimmen."
+
+#. type: Plain text, ID:679
+#: Line:750
+msgid ""
+"Enter below your analytics account ID and you will be able to track visits, "
+"visitors and other important statistics about your web traffic."
+msgstr ""
+"Bitte hier die Analytics-Konto-ID eingeben, um so Besuche, Besucher und "
+"andere wichtige Statistiken bzgl. des Datenverkehrs der Seite im Auge zu "
+"behalten."
+
+# Newline
+#. type: Plain text, ID:680
+#: Line:752
+msgid "Digest Email"
+msgstr "eMail Verarbeiten"
+
+#. type: Plain text, ID:681
+#: Line:753
+msgid "on <t.date/>"
+msgstr "am <t.date/>"
+
+#. type: Plain text, ID:682
+#: Line:754
+msgid "DO NOT REPLY TO THIS EMAIL"
+msgstr "BITTE NICHT AUF DIESE EMAIL ANTWORTEN"
+
+#. type: Plain text, ID:683
+#: Line:755
+msgid "Replies sent to this address are not read or processed."
+msgstr "Antworten an diese Adresse werden weder gelesen noch verarbeitet."
+
+#. type: Plain text, ID:684
+#: Line:756
+msgid ""
+"If you want to respond to a post for which you received this email, please "
+"go to the website: <t.url/>"
+msgstr ""
+"Falls eine Antwort zu einem Beitrag gewünscht ist, auf den sich diese "
+"empfangene eMail bezieht, wird darum gebeten, die folgende Website "
+"aufzusuchen: <n.url/>"
+
+#. type: Plain text, ID:685
+#: Line:757
+msgid "new post"
+msgstr "neue Nachricht"
+
+#. type: Plain text, ID:686
+#: Line:758
+msgid "new posts"
+msgstr "neue Nachrichten"
+
+# Newline
+#. type: Plain text, ID:687
+#: Line:760
+msgid "New registered user in <t.location/>!"
+msgstr "Ein neuer registrierter Nutzer in <n.location/>!"
+
+#. type: Plain text, ID:688
+#: Line:761
+msgid "User profile"
+msgstr "Nutzerprofil"
+
+#. type: Plain text, ID:689
+#: Line:762
+msgid "New user:"
+msgstr "Neuer Nutzer:"
+
+# Newline
+#. type: Plain text, ID:690
+#: Line:764
+msgid "<n.author/> wrote"
+msgstr "<n.author/> schrieb"
+
+#. type: Plain text, ID:691
+#: Line:765
+msgid "You still have <t.number/> day(s) left without advertising"
+msgstr "Es sind noch <n.number/> Tag(e) ohne Werbung übrig"
+
+#. type: Plain text, ID:692
+#: Line:766
+msgid "(Only administrators can see this message)"
+msgstr "(Nur Administratoren können diese Nachricht sehen)"
+
+# Newline
+#. type: Plain text, ID:693
+#: Line:768
+msgid ""
+"Some private items have been omitted because you don't have permission to "
+"view them."
+msgstr ""
+"Einige private Elemente wurden ausgeblendet, da keine Berechtigung zur "
+"Ansicht besteht."
+
+#. type: Plain text, ID:694
+#: Line:769
+msgid ""
+"Please enter the email address you used to register and click on \"Submit\". "
+"We will email you a link to reset your password."
+msgstr ""
+"Bitte die eMail-Adresse aus dem Registrierungs-Vorgang eingeben und auf "
+"\"Absenden\" klicken. Wir werden dorthin einen Link senden, über den ein "
+"Rücksetzen des Passworts erfolgen kann."
+
+#. type: Plain text, ID:695
+#: Line:770
+msgid "Submit"
+msgstr "Absenden"
+
+#. type: Plain text, ID:696
+#: Line:771
+msgid "Password Reset Sent"
+msgstr "Passwortresettierung Abgeschickt"
+
+#. type: Plain text, ID:697
+#: Line:772
+msgid ""
+"We have sent you a link to reset your password. Please check your email now. "
+"If you don't receive the instructions in a few minutes, check your spam "
+"folder or try to resend the request."
+msgstr ""
+"Wir haben einen Link zum Zurücksetzen des Passworts geschickt. Wir bitten um "
+"kurzfristige Überprüfung des eMail-Eingangs. Falls die eMail nicht in "
+"wenigen Minuten ankommt, bitten wir um Überprüfung des mit dem eMail-Konto "
+"verbundenen Spam-Ordners."
+
+#. type: Plain text, ID:698
+#: Line:773
+msgid "Reset your password / <t.location/>"
+msgstr "Rücksetzung des Passworts / <n.location/>"
+
+#. type: Plain text, ID:699
+#: Line:774
+msgid "We received a request to reset your password in <t.location/>."
+msgstr ""
+"Wir haben eine Anfrage erhalten, das persönliche Passwort in <n.location/> "
+"zurückzusetzen."
+
+#. type: Plain text, ID:700
+#: Line:775
+msgid ""
+"If you want to reset your password, click on the link below (or copy and "
+"paste the URL into your browser):"
+msgstr ""
+"Falls eine Rücksetzung des persönlichen Passworts gewünscht sein sollte, "
+"bitten wir darum, auf den unten angegebenen Link zu klicken (oder die URL zu "
+"kopieren und in die Adresszeile des Internetbrowsers einzufügen):"
+
+#. type: Plain text, ID:701
+#: Line:776
+msgid ""
+"If you don't want to reset your password, please ignore this message. Your "
+"password will not be reset."
+msgstr ""
+"Falls das persönliche Passwort doch nicht zurückgesetzt werden soll, bitten "
+"wir darum, diese Nachricht einfach zu ignorieren. Das Passwort wird dann "
+"nicht zurückgesetzt werden."
+
+# Newline
+#. type: Plain text, ID:702
+#: Line:778
+msgid ""
+"<b>IMPORTANT:</b> If you use this option, messages posted in the archive "
+"will NOT be sent to the mailing list."
+msgstr ""
+"<b>WICHTIG:</b> Falls diese Option verwendet wird, werden im Archiv "
+"angelegte Nachrichten NICHT an die Mailing-Liste weitergeleitet."
+
+#. type: Plain text, ID:703
+#: Line:779
+msgid "Message Preview"
+msgstr "Nachrichtenvorschau"
+
+#. type: Plain text, ID:704
+#: Line:780
+msgid "Your changes will not be sent to the mailing list."
+msgstr "Die Änderungen werden nicht an die Mailing-Liste weitergeleitet."
+
+#. type: Plain text, ID:705
+#: Line:781
+msgid ""
+"If you want others in the mailing list to know of your changes, please "
+"compose a new message or reply to your original message."
+msgstr ""
+"Falls gewünscht wird, dass andere Empfänger der Mailing-Liste "
+"Änderungsbenachrichtigungen erhalten, dann wird darum gebeten, eine neue "
+"Nachricht zu erstellen oder auf die Originalnachricht direkt zu antworten."
+
+# Newline
+#. type: Plain text, ID:706
+#: Line:783
+msgid "Poll"
+msgstr "Umfrage"
+
+#. type: Plain text, ID:707
+#: Line:784
+msgid "Add new poll"
+msgstr "Neue Umfrage hinzufügen"
+
+#. type: Plain text, ID:708
+#: Line:785
+msgid "Question:"
+msgstr "Frage:"
+
+#. type: Plain text, ID:709
+#: Line:786
+msgid "Answers:"
+msgstr "Antwort:"
+
+#. type: Plain text, ID:710
+#: Line:787
+msgid "Add new answer"
+msgstr "Neue Antwort hinzufügen"
+
+#. type: Plain text, ID:711
+#: Line:788
+msgid "1 vote"
+msgstr "1 Stimme"
+
+#. type: Plain text, ID:712
+#: Line:789
+msgid "<t.number/> votes"
+msgstr "<n.number/> Stimmen"
+
+#. type: Plain text, ID:713
+#: Line:790
+msgid "Total votes:"
+msgstr "Gesamtanzahl Stimmen:"
+
+#. type: Plain text, ID:714
+#: Line:791
+msgid "Vote"
+msgstr "Stimme"
+
+#. type: Plain text, ID:715
+#: Line:792
+msgid "Your vote has been submitted."
+msgstr "Die Stimme wurde registriert."
+
+#. type: Plain text, ID:716
+#: Line:793
+msgid "This poll is closed."
+msgstr "Diese Umfrage ist geschlossen."
+
+#. type: Plain text, ID:717
+#: Line:794
+msgid "This poll ends on <t.date/>."
+msgstr "Diese Umfrage endet am <n.date/>."
+
+#. type: Plain text, ID:718
+#: Line:795
+msgid "This poll ended on <t.date/>."
+msgstr "Diese Umfrage wurde am <t.date/> beendet."
+
+#. type: Plain text, ID:719
+#: Line:796
+msgid "Results will be shown only after poll has ended."
+msgstr "Ergebnisse werden nur nach Abschluss der Umfrage gezeigt."
+
+#. type: Plain text, ID:720
+#: Line:797
+msgid "You have to vote before you can see the results."
+msgstr "Vor der Ergebniseinsicht ist eine Stimmabgabe notwendig."
+
+#. type: Plain text, ID:721
+#: Line:798
+msgid "You cannot change your vote after voting."
+msgstr "Eine Stimmabgabe kann nicht rückgängig gemacht werden."
+
+#. type: Plain text, ID:722
+#: Line:799
+msgid "You can select up to <t.number/> options."
+msgstr "Es können bis zu <n.number/> Optionen ausgewählt werden."
+
+#. type: Plain text, ID:723
+#: Line:800
+msgid "Please select no more than <t.number/> options."
+msgstr "Bitte nicht mehr als <n.number/> Optionen auswählen."
+
+#. type: Plain text, ID:724
+#: Line:801
+msgid "Please select at least one option."
+msgstr "Bitte mindestens eine Option auswählen."
+
+#. type: Plain text, ID:725
+#: Line:802
+msgid "Remove Poll"
+msgstr "Umfrage Entfernen"
+
+#. type: Plain text, ID:726
+#: Line:803
+msgid "Invalid poll parameters."
+msgstr "Ungültige Umfrageparameter."
+
+#. type: Plain text, ID:727
+#: Line:804
+msgid "Poll duration must be a non-negative integer or blank."
+msgstr ""
+"Die Umfragedauer muss entweder eine nicht-negative Ganzzahl sein oder leer "
+"gelassen werden."
+
+#. type: Plain text, ID:728
+#: Line:805
+msgid "Poll maximum allowed choices must be a non-negative integer or blank."
+msgstr ""
+"Die Auswahlanzahl für Umfragen muss entweder eine nicht-negative Ganzzahl "
+"sein oder leer gelassen werden."
+
+#. type: Plain text, ID:729
+#: Line:806
+msgid "Delete this poll, including all votes?"
+msgstr "Diese Umfrage entfernen mit allen Stimmabgaben?"
+
+#. type: Plain text, ID:730
+#: Line:807
+msgid "Poll has been deleted."
+msgstr "Die Umfrage wurde gelöscht."
+
+#. type: Plain text, ID:731
+#: Line:808
+msgid "Who can create polls."
+msgstr "Wer ist berechtigt, Umfragen zu erzeugen."
+
+#. type: Plain text, ID:732
+#: Line:809
+msgid "Allow vote changes"
+msgstr "Änderung von Stimmabgaben zulassen"
+
+#. type: Plain text, ID:733
+#: Line:810
+msgid ""
+"Allow viewing results before end date (poll creators can always view the "
+"results)"
+msgstr ""
+"Einsicht in Stimmenstatus erlauben, bevor Umfrage beendet ist (Umfrage-"
+"Erzeuger können zu jeder Zeit den Stimmenstatus abfragen)"
+
+#. type: Plain text, ID:734
+#: Line:811
+msgid "Allow viewing results before vote"
+msgstr "Einsicht in Stimmenstatus vor Stimmabgabe erlauben"
+
+#. type: Plain text, ID:735
+#: Line:812
+msgid "Multiple selections allowed:"
+msgstr "Mehrfachauswahl erlaubt:"
+
+#. type: Plain text, ID:736
+#: Line:813
+msgid "Poll ends after <t.number/> days (leave blank for unlimited)."
+msgstr ""
+"Umfrage wird nach <n.number/> Tagen beendet (leer lassen für unbegrenzt)."
+
+#. type: Plain text, ID:737
+#: Line:814
+msgid "Login to vote"
+msgstr "Zum Abstimmen bitte einloggen"
+
+#. type: Plain text, ID:738
+#: Line:815
+msgid "This message has a poll"
+msgstr "Diese Nachricht ist eine Umfrage"
+
+#. type: Plain text, ID:739
+#: Line:816
+msgid "Visit the link below if you want to participate:"
+msgstr "Bitte dem Link folgen, um teilzunehmen"
+
+# Newline
+#. type: Plain text, ID:740
+#: Line:818
+msgid "Current length: <t.number/> characters"
+msgstr "Aktuelle Länge: <n.number/> Zeichen"
+
+#. type: Plain text, ID:741
+#: Line:819
+msgid "Edit Post"
+msgstr "Beitrag Bearbeiten"
+
+#. type: Plain text, ID:742
+#: Line:820
+msgid "<t.location/> - Your credits are running out"
+msgstr "<n.location/> - Kredit-Punkte laufen aus"
+
+#. type: Plain text, ID:743
+#: Line:821
+msgid "<t.location/> is running out of ad-free credits."
+msgstr "Die Kredit-Punkte bzgl. Werbefreiheit läuft für <n.location/> aus."
+
+#. type: Plain text, ID:744
+#: Line:822
+msgid "If you want to buy more credits, visit:"
+msgstr "Zum Erwerb weiterer Kredit-Punkte, bitte besuchen:"
+
+#. type: Plain text, ID:745
+#: Line:823
+msgid "only in this topic"
+msgstr "nur in diesem Thema"
+
+#. type: Plain text, ID:746
+#: Line:824
+msgid "everywhere"
+msgstr "überall"
+
+# Newline
+#. type: Plain text, ID:747
+#: Line:826
+msgid ""
+"If you want to invite subscribers, please request this feature in the <n."
+"support_link/> forum."
+msgstr ""
+"Falls eine Abonnenten-Einladung erfolgen soll, bitte diese Funktion im <n."
+"support_link/> Forum beantragen."
+
+#. type: Plain text, ID:748
+#: Line:827
+msgid ""
+"We can install this module for you, but the Nabble team must approve this "
+"request to prevent abuse and spam."
+msgstr ""
+"Wir können dieses Modul installieren, jedoch muss das Nabble-Team zunächst "
+"der Anfrage zustimmen, um Missbrauch und Spam zu verhindern."
+
+# Newline
+#. type: Plain text, ID:749
+#: Line:829
+msgid "Edit Signature"
+msgstr "Signatur Bearbeiten"
+
+#. type: Plain text, ID:750
+#: Line:830
+msgid "Current Signature"
+msgstr "Aktuelle Signatur"
+
+#. type: Plain text, ID:751
+#: Line:831
+msgid "Save Signature"
+msgstr "Signatur Speichern"
+
+#. type: Plain text, ID:752
+#: Line:832
+msgid "Signature is in HTML format"
+msgstr "Signatur ist im HTML-Format"
+
+# Newline
+#. type: Plain text, ID:753
+#: Line:834
+msgid "Download backup"
+msgstr "Backup herunterladen"
+
+#. type: Plain text, ID:754
+#: Line:835
+msgid "Backup"
+msgstr "Backup"
+
+#. type: Plain text, ID:755
+#: Line:836
+msgid "Here you can download a backup of <t.location/>."
+msgstr "Hier kann ein Backup von <n.location/> heruntergeladen werden."
+
+#. type: Plain text, ID:756
+#: Line:837
+msgid ""
+"When you press the button below, the system will start the generation of the "
+"backup file and this may take some minutes to finish. You will receive an "
+"email with a link to download the file when it is ready."
+msgstr ""
+"Nach dem Betätigen der unten angezeigten Schaltfläche, wird das System die "
+"Backup-Datei erzeugen. Dies kann einige Minuten dauern. Im Anschluss wird "
+"eine eMail versandt, die einen Link zum Herunterladen der Backup-Datei "
+"enthält."
+
+#. type: Plain text, ID:757
+#: Line:838
+msgid "Generate backup file"
+msgstr "Generiere Backup-Datei"
+
+#. type: Plain text, ID:758
+#: Line:839
+msgid ""
+"The system is generating the backup now. When it is finished, a link to the "
+"backup file will be emailed to you."
+msgstr ""
+"Das System erzeugt nun das Backup. Nach Beendigung wird ein Link zum "
+"Herunterladen der Backup-Datei per eMail versandt."
+
+#. type: Plain text, ID:759
+#: Line:840
+msgid ""
+"The backup file is generated with the <a href=\"https://github.com/tig100/"
+"JdbcPgBackup\">JdbcPgBackup</a> tool, which is an open source project in "
+"Java. You should visit the project website if you want to restore your "
+"backup into a Postgresql database."
+msgstr ""
+"Die Backup-Datei ist über das <a href=\"https://github.com/tig100/"
+"JdbcPgBackup\">JdbcPgBackup</a> Programm erzeugt worden, welches ein "
+"OpenSource-Projekt in JAVA ist. Es wird empfohlen, die Projekt-Website zu "
+"besuchen, falls der Wunsch besteht, das Backup in einer Postgresql-"
+"Datatenbank wiederherzustellen."
+
+#. type: Plain text, ID:760
+#: Line:841
+msgid "Backup of <t.location/>"
+msgstr "Backup von <n.location/>"
+
+#. type: Plain text, ID:761
+#: Line:842
+msgid "Here is your backup file:"
+msgstr "Hier ist die Backup-Datei zu finden:"
+
+#. type: Plain text, ID:762
+#: Line:843
+msgid "<t.location/> has been deleted"
+msgstr "<n.location/> wurde gelöscht"
+
+#. type: Plain text, ID:763
+#: Line:844
+msgid "Your Nabble site \"<t.location/>\" has been deleted."
+msgstr "Die Nabble-Seite \"<n.location/>\" wurde gelöscht."
+
+#. type: Plain text, ID:764
+#: Line:845
+msgid ""
+"You can download a backup of this site from the link below. Nabble will try "
+"to keep this backup available for a few months, but this is not guaranteed. "
+"If this content is important to you, save this copy as soon as possible."
+msgstr ""
+"Das Herunterladen eines Backups dieser Seite ist möglich über den "
+"untenstehenden Link. Nabble wird versuchen, dieses Backup für einige Monate "
+"verfügbar zu halten, aber es besteht hierfür keine Garantie. Falls es sich "
+"um bedeutsame Inhalte handelt, sollte eine schnellstmögliche Sicherung der "
+"Backup-Datei erfolgen."
+
+
