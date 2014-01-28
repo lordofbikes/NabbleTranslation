@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: nabble.com NAML translation file\n"
 "Report-Msgid-Bugs-To: nabble@mail.lordofbikes.de\n"
 "POT-Creation-Date: 2014-01-04 10:15+0100\n"
-"PO-Revision-Date: 2014-01-24 22:51+0100\n"
+"PO-Revision-Date: 2014-01-28 22:41+0100\n"
 "Last-Translator: Armin Stebich <nabble@mail.lordofbikes.de>\n"
 "Language-Team: German <nabble@mail.lordofbikes.de>\n"
 "Language: de\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Lokalize 1.4\n"
+"X-Generator: Poedit 1.6.3\n"
 
 # Comment:# Deutsch
 # Newline
@@ -3140,7 +3140,7 @@ msgstr "Themen und Antworten"
 #. type: Plain text, ID:545
 #: Line:612
 msgid "topics"
-msgstr "Theemn"
+msgstr "Themen"
 
 #. type: Plain text, ID:546
 #: Line:613
@@ -4477,5 +4477,3 @@ msgstr ""
 "verfügbar zu halten, aber es besteht hierfür keine Garantie. Falls es sich "
 "um bedeutsame Inhalte handelt, sollte eine schnellstmögliche Sicherung der "
 "Backup-Datei erfolgen."
-
-
