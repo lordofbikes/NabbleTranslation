@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: nabble.com NAML translation file\n"
 "Report-Msgid-Bugs-To: nabble@mail.lordofbikes.de\n"
 "POT-Creation-Date: 2014-01-04 10:15+0100\n"
-"PO-Revision-Date: 2014-01-28 22:41+0100\n"
+"PO-Revision-Date: 2014-01-31 09:03+0100\n"
 "Last-Translator: Armin Stebich <nabble@mail.lordofbikes.de>\n"
 "Language-Team: German <nabble@mail.lordofbikes.de>\n"
 "Language: de\n"
@@ -292,7 +292,7 @@ msgstr "alle diese Worte:"
 #. type: Plain text, ID:50
 #: Line:117
 msgid "All posts from <t.author/> have been successfully removed."
-msgstr "Alle Beiträge von <t.author/> wurden erfolgreich gelöscht."
+msgstr "Alle Beiträge von <n.author/> wurden erfolgreich gelöscht."
 
 #. type: Plain text, ID:51
 #: Line:118
@@ -315,8 +315,8 @@ msgid ""
 "All users that have registered to <t.location/>. These users have confirmed "
 "their email addresses and are able to login to the system."
 msgstr ""
-"Alle Teilnehmer, die sich für <t.location/> registriert haben. Diese "
-"Teilnehmer haben ihre Email-Adresse bestätigt und können sich im System "
+"Alle Teilnehmer, die sich für <n.location/> registriert haben. Diese "
+"Teilnehmer haben ihre eMail-Adresse bestätigt und können sich im System "
 "anmelden."
 
 #. type: Plain text, ID:55
@@ -327,7 +327,7 @@ msgstr "Bereits registriert"
 #. type: Plain text, ID:56
 #: Line:123
 msgid "An email has been sent to you."
-msgstr "Es wurde eine Email verschickt"
+msgstr "Es wurde eine eMail verschickt."
 
 #. type: Plain text, ID:57
 #: Line:124
@@ -379,7 +379,7 @@ msgstr "Zuweisung"
 msgid ""
 "As you requested, the email address to post new topics under <t.app/> is:"
 msgstr ""
-"Gemäß Anforderung, lautet die Email-Adresse für neue Beträge in <t.app/> nun:"
+"Gemäß Anforderung, lautet die eMail-Adresse für neue Beträge in <n.app/> nun:"
 
 #. type: Plain text, ID:67
 #: Line:134
@@ -389,7 +389,7 @@ msgstr "eines der Worte:"
 #. type: Plain text, ID:68
 #: Line:135
 msgid "Atom feeds for <t.location/>"
-msgstr "Atom Feeds für <t.location/>"
+msgstr "Atom Feeds für <n.location/>"
 
 #. type: Plain text, ID:69
 #: Line:136
@@ -414,9 +414,9 @@ msgid ""
 "reply_to_author_link.>send a private email</n.page_node.reply_to_author_link."
 "> if you want."
 msgstr ""
-"Vermeide Geplauder wie \"vielen Dank\", \"großartig\"... Besser ist es, bei "
-"Bedarf <n.page_node.reply_to_author_link.>eine private Email zu senden</n."
-"page_node.reply_to_author_link.>."
+"Geplauder wie \"vielen Dank\", \"großartig\" ist zu vermeiden... Besser ist "
+"es, bei Bedarf <n.page_node.reply_to_author_link.>eine private eMail zu "
+"senden</n.page_node.reply_to_author_link.>."
 
 #. type: Plain text, ID:73
 #: Line:140
@@ -453,7 +453,7 @@ msgid ""
 "<b>IMPORTANT</b>: Nabble will send an invitation to each email in the list. "
 "Users will have to click on a link to confirm their subscription."
 msgstr ""
-"<b>WICHTIG</b>: Nabble wird an jede Email-Adresse in der Liste eine "
+"<b>WICHTIG</b>: Nabble wird an jede eMail-Adresse in der Liste eine "
 "Einladung versenden.Teilnehmer müssen durch anklicken eines Links ihre "
 "Anmeldung bestätigen."
 
@@ -531,7 +531,7 @@ msgstr ""
 #. type: Plain text, ID:88
 #: Line:155
 msgid "by <t.author/>"
-msgstr "von <t.author/>"
+msgstr "von <n.author/>"
 
 #. type: Plain text, ID:89
 #: Line:156
@@ -637,7 +637,7 @@ msgstr "Profilbild ändern"
 #. type: Plain text, ID:109
 #: Line:176
 msgid "Change your registered email address, password, and your user name."
-msgstr "Email-Adresse, Passwort und Benutzername ändern."
+msgstr "eMail-Adresse, Passwort und Benutzernamen ändern."
 
 #. type: Plain text, ID:110
 #: Line:177
@@ -774,7 +774,7 @@ msgstr "Zähler"
 #. type: Plain text, ID:135
 #: Line:202
 msgid "Created by <t.author/>"
-msgstr "Erstellt von <t.author/>"
+msgstr "Erstellt von <n.author/>"
 
 #. type: Plain text, ID:136
 #: Line:203
@@ -784,7 +784,7 @@ msgstr "Neues Element <n.element/> erstellen"
 #. type: Plain text, ID:137
 #: Line:204
 msgid "Create <t.element/>"
-msgstr "Erstelle <t.element/>"
+msgstr "Erstelle <n.element/>"
 
 #. type: Plain text, ID:138
 #: Line:205
@@ -824,7 +824,7 @@ msgstr "Tage"
 #. type: Plain text, ID:145
 #: Line:212
 msgid "Dear <t.name/>,"
-msgstr "Hallo <t.name/>,"
+msgstr "Hallo <n.name/>,"
 
 #. type: Plain text, ID:146
 #: Line:213
@@ -882,8 +882,8 @@ msgid ""
 "Don't post repeatedly. Wait for a few days. People will read your post by "
 "email."
 msgstr ""
-"Nicht wiederholt versenden. Erst ein paar Tage abwarten. Die Leute lesen den "
-"Beitrag per Email."
+"Bitte nicht wiederholt verfassen. Bitte erstmal einpaar Tage abwarten, denn "
+"Leser erhalten den Beitrag per eMail."
 
 #. type: Plain text, ID:157
 #: Line:224
@@ -906,7 +906,7 @@ msgid ""
 "Do you really want to permanently <n.important.>delete</n.important.> <t."
 "location/>?"
 msgstr ""
-"Soll <t.location/> wirklich unwiederbringlich <n.important.>gelöscht</n."
+"Soll <n.location/> wirklich unwiederbringlich <n.important.>gelöscht</n."
 "important.> werden?"
 
 #. type: Plain text, ID:161
@@ -1976,7 +1976,7 @@ msgid ""
 "address/>. The purpose of this design is to help prevent spam."
 msgstr ""
 "Bitte beachten, dass diese Adresse unverwechselbar ist und nur eMails "
-"akzeptiert, die von <t.address/> gesendet wurden. Der Zweck dieses Vorgehens "
+"akzeptiert, die von <n.address/> gesendet wurden. Der Zweck dieses Vorgehens "
 "ist die Einschränkung von Spam."
 
 #. type: Plain text, ID:345
@@ -2304,7 +2304,7 @@ msgstr "(privat)"
 #. type: Plain text, ID:400
 #: Line:467
 msgid "Profile of <t.author/>"
-msgstr "Profil von <t.author/>"
+msgstr "Profil von <n.author/>"
 
 #. type: Plain text, ID:401
 #: Line:468
@@ -2351,7 +2351,7 @@ msgstr "Weiter lesen"
 #: Line:475
 msgid "Read-only list with all users with an email under <t.location/>."
 msgstr ""
-"Schreibgeschützte Liste aller Nutzer, die eine eMail unter <t.location/> "
+"Schreibgeschützte Liste aller Nutzer, die eine eMail unter <n.location/> "
 "haben."
 
 #. type: Plain text, ID:409
@@ -2362,7 +2362,7 @@ msgstr "Nur direkte Antworten empfangen."
 #. type: Plain text, ID:410
 #: Line:477
 msgid "Receive every message posted in <t.location/>."
-msgstr "Jede Nachricht empfangen, die in <t.location/> verfasst wird."
+msgstr "Jede Nachricht empfangen, die in <n.location/> verfasst wird."
 
 #. type: Plain text, ID:411
 #: Line:478
@@ -2392,7 +2392,7 @@ msgstr "Registrierte Nutzer"
 #. type: Plain text, ID:416
 #: Line:483
 msgid "Register"
-msgstr "Registrierung"
+msgstr "Registrieren"
 
 #. type: Plain text, ID:417
 #: Line:484
@@ -2407,7 +2407,7 @@ msgstr "Jetzt Registrieren"
 #. type: Plain text, ID:419
 #: Line:486
 msgid "Register to <t.app/>"
-msgstr "Für <t.app/> registrieren"
+msgstr "Für <n.app/> registrieren"
 
 #. type: Plain text, ID:420
 #: Line:487
@@ -2458,7 +2458,7 @@ msgstr "Abonnement Entfernen"
 #: Line:495
 msgid "Remove your account and all your posts from <t.subject/>."
 msgstr ""
-"Persönliches Nutzerkonto sowie alle damit verbundenen Nachrichten bzgl. <t."
+"Persönliches Nutzerkonto sowie alle damit verbundenen Nachrichten bzgl. <n."
 "subject/> löschen."
 
 #. type: Plain text, ID:429
@@ -2509,7 +2509,7 @@ msgstr "benötigt"
 #. type: Plain text, ID:438
 #: Line:505
 msgid "Return to <t.location/>"
-msgstr "Zurück zu <t.location/>"
+msgstr "Zurück zu <n.location/>"
 
 #. type: Plain text, ID:439
 #: Line:506
@@ -2553,7 +2553,7 @@ msgstr "Mir eine eMail senden"
 #. type: Plain text, ID:446
 #: Line:513
 msgid "Send Email to <t.author/>"
-msgstr "<t.author/> eine eMail senden"
+msgstr "<n.author/> eine eMail senden"
 
 #. type: Plain text, ID:447
 #: Line:514
@@ -2608,7 +2608,7 @@ msgid ""
 "Some of your posts have been deleted from <t.location/> and we are sending "
 "you copies so that you have a chance to save them."
 msgstr ""
-"Einige der mit diesem Nutzer verbundenen Beiträge wurden von <t.location/> "
+"Einige der mit diesem Nutzer verbundenen Beiträge wurden von <n.location/> "
 "entfernt. Anbei nun Kopien dieser Beiträge zur Ermöglichung einer "
 "persönlichen Sicherung."
 
@@ -3089,7 +3089,7 @@ msgstr "Tipps"
 #: Line:604
 msgid "<t.name/> requested authorization to join the <t.location/>:"
 msgstr ""
-"<n.name/> beantragt eine entsprechende Autorisierung, um <t.location/> "
+"<n.name/> beantragt eine entsprechende Autorisierung, um <n.location/> "
 "beizutreten:"
 
 #. type: Plain text, ID:538
@@ -3722,7 +3722,7 @@ msgstr "Zur Ansicht dieser Seite ist eine Anmeldung notwendig."
 #. type: Plain text, ID:640
 #: Line:707
 msgid "You must login to view <t.subject/>."
-msgstr "Zur Ansicht von <t.subject/> ist eine Anmeldung notwendig."
+msgstr "Zur Ansicht von <n.subject/> ist eine Anmeldung notwendig."
 
 #. type: Plain text, ID:641
 #: Line:708
@@ -3795,8 +3795,8 @@ msgstr ""
 #: Line:719
 msgid "You will receive an email with a link to activate your account."
 msgstr ""
-"Eine eMail ist unterwegs. Hierin befindet sich ein Link, der das Konto "
-"aktiviert."
+"An diese Adresse wird eine eMail verschickt. Hierin befindet sich dann ein "
+"Link, bei dessen Betätigung das Konto aktiviert wird."
 
 # Newline
 # Comment: NEW
@@ -3965,7 +3965,7 @@ msgstr "eMail Verarbeiten"
 #. type: Plain text, ID:681
 #: Line:753
 msgid "on <t.date/>"
-msgstr "am <t.date/>"
+msgstr "am <n.date/>"
 
 #. type: Plain text, ID:682
 #: Line:754
@@ -4197,7 +4197,7 @@ msgstr "Diese Umfrage endet am <n.date/>."
 #. type: Plain text, ID:718
 #: Line:795
 msgid "This poll ended on <t.date/>."
-msgstr "Diese Umfrage wurde am <t.date/> beendet."
+msgstr "Diese Umfrage wurde am <n.date/> beendet."
 
 #. type: Plain text, ID:719
 #: Line:796
