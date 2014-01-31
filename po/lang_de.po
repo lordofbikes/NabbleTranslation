@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: nabble.com NAML translation file\n"
 "Report-Msgid-Bugs-To: nabble@mail.lordofbikes.de\n"
 "POT-Creation-Date: 2014-01-04 10:15+0100\n"
-"PO-Revision-Date: 2014-01-31 09:03+0100\n"
+"PO-Revision-Date: 2014-01-31 10:21+0100\n"
 "Last-Translator: Armin Stebich <nabble@mail.lordofbikes.de>\n"
 "Language-Team: German <nabble@mail.lordofbikes.de>\n"
 "Language: de\n"
@@ -229,7 +229,7 @@ msgstr "Emoticons und lustige Animationen einfügen"
 #. type: Plain text, ID:39
 #: Line:106
 msgid "Add Subscribers"
-msgstr "Teilnehmer hinzufügen"
+msgstr "Hinzufügen Abonnenten"
 
 #. type: Plain text, ID:40
 #: Line:107
@@ -315,9 +315,8 @@ msgid ""
 "All users that have registered to <t.location/>. These users have confirmed "
 "their email addresses and are able to login to the system."
 msgstr ""
-"Alle Teilnehmer, die sich für <n.location/> registriert haben. Diese "
-"Teilnehmer haben ihre eMail-Adresse bestätigt und können sich im System "
-"anmelden."
+"Alle Nutzer, die sich für <n.location/> registriert haben. Diese Nutzer "
+"haben ihre eMail-Adresse bestätigt und können sich im System anmelden."
 
 #. type: Plain text, ID:55
 #: Line:122
@@ -337,12 +336,12 @@ msgstr "Anonym"
 #. type: Plain text, ID:58
 #: Line:125
 msgid "anonymous user"
-msgstr "anonymer Teilnehmer"
+msgstr "anonymer Nutzer"
 
 #. type: Plain text, ID:59
 #: Line:126
 msgid "anonymous users"
-msgstr "anonyme Teilnehmer"
+msgstr "anonyme Nutzer"
 
 #. type: Plain text, ID:60
 #: Line:127
@@ -400,7 +399,7 @@ msgstr "mit Priorität"
 #. type: Plain text, ID:70
 #: Line:137
 msgid "Authorized Users Only"
-msgstr "Nur angemeldete Teilnehmer"
+msgstr "Nur Authorisierte Nutzer"
 
 #. type: Plain text, ID:71
 #: Line:138
@@ -421,17 +420,17 @@ msgstr ""
 #. type: Plain text, ID:73
 #: Line:140
 msgid "Banned User"
-msgstr "Verbannter Teilnehmer"
+msgstr "Verbannter Nutzer"
 
 #. type: Plain text, ID:74
 #: Line:141
 msgid "Ban this user"
-msgstr "Diesen Teilnehmer verbannen"
+msgstr "Diesen Nutzer verbannen"
 
 #. type: Plain text, ID:75
 #: Line:142
 msgid "Ban User"
-msgstr "Teilnehmer verbannen"
+msgstr "Verbannung Nutzer"
 
 #. type: Plain text, ID:76
 #: Line:143
@@ -444,8 +443,8 @@ msgid ""
 "Below you can manage groups and users. You can copy and paste users in order "
 "to move them from one group to another."
 msgstr ""
-"Unten können Gruppen und Teilnehmer verwaltet werden. Man kann Teilnehmer "
-"durch kopieren und einfügen von einer Gruppe in eine andere verschieben."
+"Hier werden Gruppen und Nutzer verwaltet. Nutzer können dabei durch Kopieren "
+"und Einfügen von einer Gruppe in eine andere verschoben werden."
 
 #. type: Plain text, ID:78
 #: Line:145
@@ -453,9 +452,9 @@ msgid ""
 "<b>IMPORTANT</b>: Nabble will send an invitation to each email in the list. "
 "Users will have to click on a link to confirm their subscription."
 msgstr ""
-"<b>WICHTIG</b>: Nabble wird an jede eMail-Adresse in der Liste eine "
-"Einladung versenden.Teilnehmer müssen durch anklicken eines Links ihre "
-"Anmeldung bestätigen."
+"<b>WICHTIG</b>: Nabble wird an jede eMail-Adresse in dieser Liste eine "
+"Einladung versenden. Nutzer müssen dann durch Anklicken des aufgeführten "
+"Links ihre Anmeldung bestätigen."
 
 #. type: Plain text, ID:79
 #: Line:146
@@ -722,12 +721,12 @@ msgstr "Kommentare"
 #. type: Plain text, ID:126
 #: Line:193
 msgid "Confirm Password"
-msgstr "Passwort bestätigen"
+msgstr "Bestätigung Passwort"
 
 #. type: Plain text, ID:127
 #: Line:194
 msgid "Confirm Subscription"
-msgstr "Anmeldung bestätigen"
+msgstr "Bestätigung Abonnement"
 
 #. type: Plain text, ID:128
 #: Line:195
@@ -746,7 +745,7 @@ msgid ""
 "bullying, racial intolerance or advocacy against any individual, group or "
 "organisation or excessive profanity."
 msgstr ""
-"Inhalt zur Förderung von  Hass oder Gewalt, Missbrauch schutzloser Personen,"
+"Inhalt zur Förderung von Hass oder Gewalt, Missbrauch schutzloser Personen,"
 "Mobbing, rassische Intoleranz oder Eintreten gegen jegliche Person, Gruppe "
 "oderOrganisation oder übermäßige Obszönität."
 
@@ -779,7 +778,7 @@ msgstr "Erstellt von <n.author/>"
 #. type: Plain text, ID:136
 #: Line:203
 msgid "Create new <t.element/>"
-msgstr "Neues Element <n.element/> erstellen"
+msgstr "Neues <n.element/> erstellen"
 
 #. type: Plain text, ID:137
 #: Line:204
@@ -799,7 +798,7 @@ msgstr "Momentan unterstützt Nabble"
 #. type: Plain text, ID:140
 #: Line:207
 msgid "Current Subscribers"
-msgstr "Derzeitige Teilnehmer"
+msgstr "Derzeitige Abonnenten"
 
 #. type: Plain text, ID:141
 #: Line:208
@@ -829,7 +828,7 @@ msgstr "Hallo <n.name/>,"
 #. type: Plain text, ID:146
 #: Line:213
 msgid "Dear user,"
-msgstr "Hallo Teilnehmer,"
+msgstr "Hallo Nutzer,"
 
 #. type: Plain text, ID:147
 #: Line:214
@@ -839,7 +838,7 @@ msgstr "Standard"
 #. type: Plain text, ID:148
 #: Line:215
 msgid "Delete all posts from this user"
-msgstr "Lösche alle Beiträge dieses Teilnehmers"
+msgstr "Lösche alle Beiträge dieses Nutzers"
 
 #. type: Plain text, ID:149
 #: Line:216
@@ -849,7 +848,7 @@ msgstr "Lösche Anwendung"
 #. type: Plain text, ID:150
 #: Line:217
 msgid "Deleted posts"
-msgstr "Lösche Beitrag"
+msgstr "Beiträge gelöscht"
 
 #. type: Plain text, ID:151
 #: Line:218
@@ -1056,7 +1055,7 @@ msgstr ""
 #. type: Plain text, ID:187
 #: Line:254
 msgid "Enter one email address or user name per row:"
-msgstr "Bitte pro Zeile einen Nutzernamen oder ein eMail-Adresse eingeben:"
+msgstr "Bitte pro Zeile einen Nutzernamen oder eine eMail-Adresse eingeben:"
 
 #. type: Plain text, ID:188
 #: Line:255
@@ -1430,8 +1429,8 @@ msgid ""
 "If you reply to this email, your message will be added to the discussion "
 "below"
 msgstr ""
-"Falls direkt auf diese eMail geantwortet wird, erfolgt direktes Einfügen in "
-"diese Diskussion"
+"Durch Versenden einer Antwort auf diese eMail, erfolgt der Eintrag eines "
+"entsprechenden Beitrags in folgender Forum-Diskussion"
 
 #. type: Plain text, ID:244
 #: Line:311
@@ -1753,7 +1752,7 @@ msgstr "Abonnenten verwalten"
 #. type: Plain text, ID:301
 #: Line:368
 msgid "Manage Subscribers"
-msgstr "Verwaltung Verbannte Nutzer"
+msgstr "Verwaltung Abonnenten"
 
 #. type: Plain text, ID:302
 #: Line:369
@@ -3124,7 +3123,7 @@ msgstr ""
 #: Line:609
 msgid "To confirm your subscription, click on the link below:"
 msgstr ""
-"Um das Abonnement zu bestätigen, ist ein Click auf untenstehenden Link "
+"Um das Abonnement zu bestätigen, ist ein Klick auf untenstehenden Link "
 "notwendig:"
 
 #. type: Plain text, ID:543
@@ -3198,7 +3197,7 @@ msgstr "Gesamt"
 #. type: Plain text, ID:554
 #: Line:621
 msgid "To unsubscribe from <t.location/>"
-msgstr "Um das Abonnement von <n.location/> aufzuheben"
+msgstr "Um das Abonnement bzgl. <n.location/> aufzuheben"
 
 #. type: Plain text, ID:555
 #: Line:622
@@ -3379,7 +3378,7 @@ msgstr "Darstellungen"
 #. type: Plain text, ID:589
 #: Line:656
 msgid "Views"
-msgstr "Darstellungen"
+msgstr "Aufrufe"
 
 #. type: Plain text, ID:590
 #: Line:657
