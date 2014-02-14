@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: nabble.com NAML translation file\n"
 "Report-Msgid-Bugs-To: nabble@mail.lordofbikes.de\n"
 "POT-Creation-Date: 2014-01-04 10:15+0100\n"
-"PO-Revision-Date: 2014-01-31 10:21+0100\n"
+"PO-Revision-Date: 2014-02-14 21:08+0100\n"
 "Last-Translator: Armin Stebich <nabble@mail.lordofbikes.de>\n"
 "Language-Team: German <nabble@mail.lordofbikes.de>\n"
 "Language: de\n"
@@ -378,7 +378,8 @@ msgstr "Zuweisung"
 msgid ""
 "As you requested, the email address to post new topics under <t.app/> is:"
 msgstr ""
-"Gemäß Anforderung, lautet die eMail-Adresse für neue Beträge in <n.app/> nun:"
+"Gemäß Anforderung, lautet die eMail-Adresse für neue Beträge in der <n.app/>-"
+"Applikation nun:"
 
 #. type: Plain text, ID:67
 #: Line:134
@@ -736,7 +737,7 @@ msgstr "Glückwunsch!"
 #. type: Plain text, ID:129
 #: Line:196
 msgid "Congratulations on your new <t.app/>!"
-msgstr "Glückwunsch zum neuen <n.app/>!"
+msgstr "Glückwunsch zur neuen <n.app/>-Applikation!"
 
 #. type: Plain text, ID:130
 #: Line:197
@@ -987,7 +988,7 @@ msgstr "eMail Bestätigung"
 #. type: Plain text, ID:174
 #: Line:241
 msgid "Email for <t.app/>"
-msgstr "eMail für <n.app/>"
+msgstr "eMail für die <n.app/>-Applikation"
 
 #. type: Plain text, ID:175
 #: Line:242
@@ -1032,7 +1033,7 @@ msgstr "Marker für Einbettung"
 #. type: Plain text, ID:183
 #: Line:250
 msgid "Embed this <t.app/>"
-msgstr "Einbetten von <n.app/>"
+msgstr "Einbetten der <n.app/>-Applikation"
 
 #. type: Plain text, ID:184
 #: Line:251
@@ -1195,9 +1196,8 @@ msgstr "Forum"
 
 #. type: Plain text, ID:211
 #: Line:278
-#, fuzzy
 msgid "Free Embeddable <t.app/>"
-msgstr "Freie Einbettung <n.app/>"
+msgstr "Freie Einbettung <n.app/>-Applikation"
 
 #. type: Plain text, ID:212
 #: Line:279
@@ -2134,8 +2134,9 @@ msgid ""
 "Please bookmark the link above or save this email so you can easily find "
 "your <t.app/> in the future."
 msgstr ""
-"Bitte Lesezeichen für den obenstehenden Link setzen oder diese eMail "
-"speichern, so dass <n.app/> in Zukunft einfach aufgesucht werden kann."
+"Bitte nun ein Lesezeichen für den obenstehenden Link setzen oder diese eMail "
+"speichern, so dass diese <n.app/>-Applikation in Zukunft einfach aufgesucht "
+"werden kann."
 
 #. type: Plain text, ID:373
 #: Line:440
@@ -2406,7 +2407,7 @@ msgstr "Jetzt Registrieren"
 #. type: Plain text, ID:419
 #: Line:486
 msgid "Register to <t.app/>"
-msgstr "Für <n.app/> registrieren"
+msgstr "Für die <n.app/>-Applikation registrieren"
 
 #. type: Plain text, ID:420
 #: Line:487
@@ -2615,7 +2616,8 @@ msgstr ""
 #: Line:523
 msgid "Sorry, but only members can post messages under <t.app/>."
 msgstr ""
-"Entschuldigung. Nur Mitglieder können unter <n.app/> Nachrichten verfassen."
+"Entschuldigung. Nur Mitglieder können in der <n.app/>-Applikation "
+"Nachrichten verfassen."
 
 #. type: Plain text, ID:457
 #: Line:524
@@ -2809,7 +2811,7 @@ msgstr "Aktivität Durchführen"
 #. type: Plain text, ID:493
 #: Line:560
 msgid "<t.app/> Registration"
-msgstr "Anmeldung bei <n.app/>"
+msgstr "Anmeldung <n.app/>"
 
 #. type: Plain text, ID:494
 #: Line:561
@@ -2829,7 +2831,7 @@ msgstr "Weitere Informationen & Beispiele"
 #. type: Plain text, ID:497
 #: Line:564
 msgid "Thank you for registering with <t.app/>!"
-msgstr "Vielen Dank für die Anmeldung bei <n.app/>!"
+msgstr "Vielen Dank für die Anmeldung in der <n.app/>-Applikation!"
 
 #. type: Plain text, ID:498
 #: Line:565
@@ -2963,9 +2965,9 @@ msgid ""
 "contact us through the Nabble Support forum."
 msgstr ""
 "Dies ist eine automatisch von Nabble versendete eMail, um das erfolgreiche "
-"Anlegen von <n.app/> zu bestätigen. Falls <n.app/> fälschlicherweise "
-"angelegt wurde, wird darum gebeten, Nabble über das Nabble Support Forum zu "
-"kontaktieren."
+"Anlegen der <n.app/>-Applikation zu bestätigen. Falls diese <n.app/>-"
+"Applikation fälschlicherweise angelegt wurde, wird darum gebeten, Nabble "
+"schnellstmöglich über das Nabble Support Forum zu kontaktieren."
 
 #. type: Plain text, ID:518
 #: Line:585
@@ -3116,8 +3118,8 @@ msgid ""
 "To add this <t.app/> to your website, copy and paste the following code on "
 "your html page:"
 msgstr ""
-"Um <n.app/> einer Website hinzuzufügen, muss der folgende Code kopiert und "
-"in die entsprechende HTML-Seite eingefügt werden:"
+"Um diese <n.app/>-Applikation einer Website hinzuzufügen, muss der folgende "
+"Code kopiert und in die entsprechende HTML-Seite eingefügt werden:"
 
 #. type: Plain text, ID:542
 #: Line:609
@@ -3388,7 +3390,7 @@ msgstr "Gewaltverherrlichender oder abstoßender Inhalt"
 #. type: Plain text, ID:591
 #: Line:658
 msgid "Visit <t.app/> at:"
-msgstr "Besuche <n.app/> hier:"
+msgstr "Besuche die <n.app/>-Applikation hier:"
 
 #. type: Plain text, ID:592
 #: Line:659
@@ -3580,9 +3582,9 @@ msgid ""
 "You can also promote your <t.app/> by sending the link to your friends, "
 "embedding it onto your website or talking about it on other forums."
 msgstr ""
-"Eine Verbreitung von <n.app/> kann erfolgen, indem Freunden / Bekannten "
-"dieser Link zukommt, durch Einbettung des Links in Websites oder durch "
-"Verbreitung in anderen Foren."
+"Eine Bekanntmachung dieser <n.app/>-Applikation kann erfolgen, indem "
+"Freunden / Bekannten dieser Link zugesandt wird, durch Einbettung des Links "
+"in Websites oder auch durch Verbreitung des Links in anderen Foren."
 
 #. type: Plain text, ID:620
 #: Line:687
@@ -3771,7 +3773,7 @@ msgstr "Das Abonnement von <n.location/> wurde entfernt."
 #. type: Plain text, ID:649
 #: Line:716
 msgid "Your <t.app/> has been successfully created."
-msgstr "<n.app/> wurde erfolgreich erstellt."
+msgstr "Die <n.app/>-Applikation wurde erfolgreich erstellt."
 
 #. type: Plain text, ID:650
 #: Line:717
