@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: nabble.com NAML translation file\n"
 "Report-Msgid-Bugs-To: nabble@mail.lordofbikes.de\n"
 "POT-Creation-Date: 2014-01-04 10:15+0100\n"
-"PO-Revision-Date: 2014-02-14 21:08+0100\n"
+"PO-Revision-Date: 2014-02-19 19:15+0100\n"
 "Last-Translator: Armin Stebich <nabble@mail.lordofbikes.de>\n"
 "Language-Team: German <nabble@mail.lordofbikes.de>\n"
 "Language: de\n"
@@ -1420,8 +1420,8 @@ msgid ""
 "If you logged out by mistake, please <n.login_link.>log in again</n."
 "login_link.>."
 msgstr ""
-"Falls die Abmeldung irrtümlich erfolgt ist, bitte wieder <n."
-"login_link.>anmelden</n.login_link.>."
+"Falls die Abmeldung irrtümlich erfolgt ist, bitte wieder <n.login_link."
+">anmelden</n.login_link.>."
 
 #. type: Plain text, ID:243
 #: Line:310
@@ -1985,8 +1985,8 @@ msgid ""
 "to your global profile."
 msgstr ""
 "<n.register_link.>Jetzt registrieren</n.register_link.>, um das Profil "
-"bearbeiten, Nachrichten per eMail empfangen, Favoriten zu verwalten "
-"oder auf das globale Profil zugreifen zu können."
+"bearbeiten, Nachrichten per eMail empfangen, Favoriten verwalten oder auf "
+"das globale Profil zugreifen zu können."
 
 #. type: Plain text, ID:346
 #: Line:413
@@ -2133,9 +2133,9 @@ msgid ""
 "Please bookmark the link above or save this email so you can easily find "
 "your <t.app/> in the future."
 msgstr ""
-"Bitte nun ein Lesezeichen für den oben stehenden Link setzen oder diese eMail "
-"speichern, so dass diese <n.app/>-Applikation in Zukunft einfach aufgesucht "
-"werden kann."
+"Bitte nun ein Lesezeichen für den oben stehenden Link setzen oder diese "
+"eMail speichern, so dass diese <n.app/>-Applikation in Zukunft einfach "
+"aufgesucht werden kann."
 
 #. type: Plain text, ID:373
 #: Line:440
@@ -2451,7 +2451,7 @@ msgstr "Einstellungen Entfernen"
 #. type: Plain text, ID:427
 #: Line:494
 msgid "Remove Subscription"
-msgstr "Abonnement Entfernen"
+msgstr "Abonnement Beenden"
 
 #. type: Plain text, ID:428
 #: Line:495
@@ -2780,7 +2780,7 @@ msgstr "Format des Abonnements"
 #. type: Plain text, ID:487
 #: Line:554
 msgid "Subscription Removed"
-msgstr "Abonnement Entfernt"
+msgstr "Abonnement Beendet"
 
 #. type: Plain text, ID:488
 #: Line:555
@@ -2871,7 +2871,7 @@ msgstr ""
 #. type: Plain text, ID:503
 #: Line:570
 msgid "The Nabble team"
-msgstr "Das Nabble-Team"
+msgstr "das Nabble-Team"
 
 #. type: Plain text, ID:504
 #: Line:571
@@ -3198,7 +3198,7 @@ msgstr "Gesamt"
 #. type: Plain text, ID:554
 #: Line:621
 msgid "To unsubscribe from <t.location/>"
-msgstr "Um das Abonnement bzgl. <n.location/> aufzuheben"
+msgstr "Um das Abonnement bzgl. <n.location/> zu beenden"
 
 #. type: Plain text, ID:555
 #: Line:622
@@ -3274,7 +3274,7 @@ msgstr "Nicht-Registrierter Nutzer"
 #. type: Plain text, ID:569
 #: Line:636
 msgid "Unsubscribe"
-msgstr "Abonnement Lösen"
+msgstr "Abonnement Beenden"
 
 #. type: Plain text, ID:570
 #: Line:637
@@ -3544,7 +3544,7 @@ msgstr "Ja, bitte <n.location/> unwiederbringlich löschen"
 #. type: Plain text, ID:614
 #: Line:681
 msgid "Yes, unsubscribe now"
-msgstr "Ja, das Abonnement lösen"
+msgstr "Ja, das Abonnement beenden"
 
 #. type: Plain text, ID:615
 #: Line:682
@@ -3752,7 +3752,7 @@ msgstr "Die Anfrage wurde erfolgreich versendet."
 #. type: Plain text, ID:646
 #: Line:713
 msgid "Your subscription has been successfully saved."
-msgstr "Das Abonnement wurde erfolgreich registriert."
+msgstr "Das Abonnement wurde erfolgreich eingerichtet."
 
 #. type: Plain text, ID:647
 #: Line:714
@@ -3760,14 +3760,14 @@ msgid ""
 "Your subscription to <t.location/> has been removed. If this was a mistake, "
 "you can re-subscribe by following the link below:"
 msgstr ""
-"Das Abonnement von <n.location/> wurde entfernt. Falls dies ein Versehen "
+"das Abonnement von <n.location/> wurde beendet. Falls dies ein Versehen "
 "gewesen sein sollte, ist ein Wieder-Abonnieren über den folgenden Link "
 "möglich:"
 
 #. type: Plain text, ID:648
 #: Line:715
 msgid "Your subscription to <t.location/> has been successfully removed."
-msgstr "Das Abonnement von <n.location/> wurde entfernt."
+msgstr "Das Abonnement von <n.location/> wurde beendet."
 
 #. type: Plain text, ID:649
 #: Line:716
@@ -3861,8 +3861,8 @@ msgid ""
 "The meta information below can help you optimize this page for search "
 "engines (e.g., google, yahoo!, etc.)."
 msgstr ""
-"Die unten stehenden Meta-Informationen können dabei unterstützen, diese Seite "
-"bzgl. der Suchmaschinen (z.B. Google, Yahoo!, usw.) zu optimieren."
+"Die unten stehenden Meta-Informationen können dabei unterstützen, diese "
+"Seite bzgl. der Suchmaschinen (z.B. Google, Yahoo!, usw.) zu optimieren."
 
 #. type: Plain text, ID:664
 #: Line:735
@@ -4250,8 +4250,8 @@ msgstr ""
 #: Line:805
 msgid "Poll maximum allowed choices must be a non-negative integer or blank."
 msgstr ""
-"Die Auswahlanzahl für Umfragen muss entweder eine positive Ganzzahl "
-"sein oder leer gelassen werden."
+"Die Auswahlanzahl für Umfragen muss entweder eine positive Ganzzahl sein "
+"oder leer gelassen werden."
 
 #. type: Plain text, ID:729
 #: Line:806
@@ -4442,8 +4442,8 @@ msgstr ""
 "Die Backup-Datei ist über das <a href=\"https://github.com/tig100/"
 "JdbcPgBackup\">JdbcPgBackup</a> Programm erzeugt worden, welches ein "
 "OpenSource-Projekt in JAVA ist. Es wird empfohlen, die Projekt-Website zu "
-"besuchen, falls der Wunsch besteht, das Backup in einer PostgreSQL-"
-"Datenbank wiederherzustellen."
+"besuchen, falls der Wunsch besteht, das Backup in einer PostgreSQL-Datenbank "
+"wiederherzustellen."
 
 #. type: Plain text, ID:760
 #: Line:841
@@ -4472,8 +4472,8 @@ msgid ""
 "to keep this backup available for a few months, but this is not guaranteed. "
 "If this content is important to you, save this copy as soon as possible."
 msgstr ""
-"Das Herunterladen eines Backups dieser Seite ist möglich über den "
-"unten stehenden Link. Nabble wird versuchen, dieses Backup für einige Monate "
+"Das Herunterladen eines Backups dieser Seite ist möglich über den unten "
+"stehenden Link. Nabble wird versuchen, dieses Backup für einige Monate "
 "verfügbar zu halten, aber es besteht hierfür keine Garantie. Falls es sich "
 "um bedeutsame Inhalte handelt, sollte eine schnellstmögliche Sicherung der "
 "Backup-Datei erfolgen."
