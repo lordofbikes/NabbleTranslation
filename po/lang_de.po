@@ -4327,12 +4327,14 @@ msgstr "Beitrag Bearbeiten"
 #. type: Plain text, ID:742
 #: Line:820
 msgid "<t.location/> - Your credits are running out"
-msgstr "<n.location/> - Kredit-Punkte laufen aus"
+msgstr "<n.location/> - Kredit-Punkte sind fast aufgebraucht"
 
 #. type: Plain text, ID:743
 #: Line:821
 msgid "<t.location/> is running out of ad-free credits."
-msgstr "Die Kredit-Punkte bzgl. Werbefreiheit läuft für <n.location/> aus."
+msgstr ""
+"Die Kredit-Punkte bzgl. Werbefreiheit für <n.location/> sind fast "
+"aufgebraucht."
 
 #. type: Plain text, ID:744
 #: Line:822
@@ -4477,3 +4479,18 @@ msgstr ""
 "verfügbar zu halten, aber es besteht hierfür keine Garantie. Falls es sich "
 "um bedeutsame Inhalte handelt, sollte eine schnellstmögliche Sicherung der "
 "Backup-Datei erfolgen."
+
+# Newline
+#. type: Plain text, ID:765
+#: Line:847
+msgid "This email was sent by <t.author/> (via Nabble)"
+msgstr "Diese Nachricht wurde von <n.author/> verschickt (über Nabble)"
+
+#. type: Plain text, ID:766
+#: Line:848
+msgid ""
+"To receive all replies by email, <t.subscribe_instructions_link.>"
+"subscribe to this discussion</t.subscribe_instructions_link.>"
+msgstr ""
+"Um alle Antworten per eMail zu erhalten, <n.subscribe_instructions_link.>"
+"bitte diese Diskussion abonnieren</n.subscribe_instructions_link.>"
