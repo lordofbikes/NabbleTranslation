@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: nabble.com NAML translation file\n"
 "Report-Msgid-Bugs-To: nabble@mail.lordofbikes.de\n"
 "POT-Creation-Date: 2014-01-04 10:15+0100\n"
-"PO-Revision-Date: 2014-02-19 19:15+0100\n"
+"PO-Revision-Date: 2014-04-17 13:16+0100\n"
 "Last-Translator: Armin Stebich <nabble@mail.lordofbikes.de>\n"
 "Language-Team: German <nabble@mail.lordofbikes.de>\n"
 "Language: de\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Poedit 1.6.3\n"
+"X-Generator: Poedit 1.6.4\n"
 
 # Comment:# Deutsch
 # Newline
@@ -2237,7 +2237,7 @@ msgstr "Beitrag"
 #. type: Plain text, ID:389
 #: Line:456
 msgid "Post Message"
-msgstr "Nachricht Verfassen"
+msgstr "Nachricht Absenden"
 
 #. type: Plain text, ID:390
 #: Line:457
@@ -4489,9 +4489,8 @@ msgstr "Diese Nachricht wurde von <n.author/> verschickt (über Nabble)"
 #. type: Plain text, ID:766
 #: Line:848
 msgid ""
-"To receive all replies by email, <t.subscribe_instructions_link.>"
-"subscribe to this discussion</t.subscribe_instructions_link.>"
+"To receive all replies by email, <t.subscribe_instructions_link.>subscribe "
+"to this discussion</t.subscribe_instructions_link.>"
 msgstr ""
-"Um alle Antworten per eMail zu erhalten, <n.subscribe_instructions_link.>"
-"bitte diese Diskussion abonnieren</n.subscribe_instructions_link.>"
-
+"Um alle Antworten per eMail zu erhalten, <n.subscribe_instructions_link."
+">bitte diese Diskussion abonnieren</n.subscribe_instructions_link.>"
