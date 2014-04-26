@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: nabble.com NAML translation file\n"
 "Report-Msgid-Bugs-To: nabble@mail.lordofbikes.de\n"
 "POT-Creation-Date: 2014-01-04 10:15+0100\n"
-"PO-Revision-Date: 2014-04-18 22:21+0100\n"
+"PO-Revision-Date: 2014-04-26 12:44+0100\n"
 "Last-Translator: Armin Stebich <nabble@mail.lordofbikes.de>\n"
 "Language-Team: German <nabble@mail.lordofbikes.de>\n"
 "Language: de\n"
@@ -3124,9 +3124,7 @@ msgstr ""
 #. type: Plain text, ID:542
 #: Line:609
 msgid "To confirm your subscription, click on the link below:"
-msgstr ""
-"Um das Abonnement zu bestätigen, ist ein Klick auf unten stehenden Link "
-"notwendig:"
+msgstr "Um das Abonnement einzurichten, bitte auf den folgenden Link klicken:"
 
 #. type: Plain text, ID:543
 #: Line:610
@@ -3522,10 +3520,13 @@ msgid ""
 "and you can reply to them to participate in the discussion. Your "
 "subscription works the same as a mailing list."
 msgstr ""
-"Dieses Abonnement sorgt dafür, dass Aktualisierungen per eMail an den "
-"Abonnenten versendet werden. Es ist daraufhin möglich, direkt über den eMail-"
-"Client eine Antwort zu verfassen, die wie ein normaler Beitrag im Forum "
-"erscheint. Die Wirkungsweise ist die gleiche wie bei einer Mailing-Liste."
+"Das Abonnement einer Nabble-Web-Applikation (egal, ob Forum, Unterforum oder "
+"Mailing-Liste) erleichtert den Umgang mit Beiträgen und Personen in der "
+"Community. Zum einen erhält man als Abonnent eine direkte Benachrichtigung "
+"bei neu verfassten Themen oder Beiträgen; zum anderen ist es dann auch "
+"möglich, auf die Benachrichtigung direkt mit einer Antwort-eMail zu "
+"reagieren. Diese erscheint dann ebenfalls als neuer Beitrag zum aktuellen "
+"Thema in der entsprechenden Applikation."
 
 #. type: Plain text, ID:611
 #: Line:678
